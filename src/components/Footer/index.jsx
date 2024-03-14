@@ -12,7 +12,7 @@ export const Footer = ({ children, link = "/" }) => {
               <Image
                 src="/icons/footer.jpg"
                 alt="Logo"
-                width="250"
+                width="280"
                 height="180"
               />  
             </a>
