@@ -19,7 +19,7 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>SetFocus Brasil</h3>
+            <h3>Viva Imóveis</h3>
             <ul>
               <li>(14) 99740-6893</li>
               <li>agenciasetfocus@gmail.com</li>
