@@ -10,7 +10,7 @@ export const Footer = ({ children, link = "/" }) => {
           <Link href="/">
             <a className={styles.logo}>
               <Image
-                src="/icons/footer.jpg"
+                src="/icons/footer.png"
                 alt="Logo"
                 width="280"
                 height="180"
