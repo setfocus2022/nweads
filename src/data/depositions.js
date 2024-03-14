@@ -1,9 +1,9 @@
 export const depositions = [
   {
     id: 1,
-    name: "Alan - Elitiun Tecnologia",
+    name: "Bruce Wayne",
     description:
-      "Havia um potencial cliente do meu lado só passei a existir pra ele após as campanhas de display e resultados de busca que a SetFocus Brasil arquitetou para nossa empresa. ",
+      "Precisei fazer uma avaliação da mansão Wayne e a Viva Imóveis realizou com excelencia esse trabalho. Só tenho a agradecer ao profissionalismo! ",
   },
   {
     id: 2,
