@@ -76,7 +76,7 @@ export const Header = () => {
               link="https://wa.me/5514997406893"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-              Impulsione seus negócios
+             Avalie seu imóvel
             </Button>
           </div>
         </div>
