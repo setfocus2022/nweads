@@ -1,21 +1,21 @@
 export const depositions = [
   {
     id: 1,
-    name: "Bruce Wayne",
+    name: "Bruce Wayne - Wayne Enterpreises",
     description:
       "Precisei fazer uma avaliação da mansão Wayne e a Viva Imóveis realizou com excelencia esse trabalho. Só tenho a agradecer ao profissionalismo! ",
   },
   {
     id: 2,
-    name: "Bruno Silva - Castanha Silva ",
+    name: "Elon Musk - SpaceX",
     description:
-      "Vender castanha do Pará a nível nacional parecia impossível, mas a SetFocus Brasil nos proporcionou essa mágica, só tenho a agradecer ",                                  
+      "Na Califórnia meus imóveis precisavam ser avaliados, a Viva imóveis me deu todo o suporte necessário para a melhor avaliação ",                                  
    },
    {
     id: 3,
-    name: "Claudio Carrilho - Eletro Santa Clara",
+    name: "Donald Trump - Empresário",
     description:
-      " Se você deixa de investir em publicidade, seja qual seja o tipo de mídia, sua enpresa deixa de existir para o público consumidor  ",                                  
+      " Contei com a Viva Imóveis que avaliaram meus complexos em Miami ",                                  
    },
 
 
