@@ -30,7 +30,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="" title="  Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade" />
+        <HeaderPage subtitle="" title="  Viva Imóveis | Avaliação de Imóveis" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
