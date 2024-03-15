@@ -127,7 +127,7 @@ export default function Home() {
             Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
             </p>
             <Button link="/empresa" target="_self">
-              Conheça nossas mágicas
+            Saiba Mais sobre Avaliação de Imóveis
             </Button>
           </div>
 
