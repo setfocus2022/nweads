@@ -32,14 +32,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Agência SetFocus Brasil - Conectando sua Empresa à Novos Clientes</title>
+        <title>Home | Viva Imóveis - Avaliação de Imóveis </title>
         <meta
           name="description"
-          content="Agência SetFocus Brasil - Geramos demanda para seu time de vendas"
+          content="Viva Imóveis - Avaliação de Imóveis"
         />
         <meta
           name="keywords"
-          content=" Geramos demanda para seu time de vendas, marketing, marketing digital, marketing online, publicidade digital, campanha google, ads "
+          content=" Avaliação de imóveis ? Somos Especialistas "
       
         />
         <meta name="author" content="SetFocus Brasil" />
@@ -58,12 +58,13 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-            Geramos demanda para seu <strong>time de vendas! </strong>
+            Avaliação de imóveis ? <strong>Somos Especialistas </strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Saiba como a SetFocus Brasil consegue potencializar seus resultados. Saiba o que nossa mágica é capaz de fazer por sua empresa.             </p>
+            Milhares de imóveis avaliados, vendidos e alugados.
+             </p>
            
   
             <div
@@ -73,10 +74,10 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514997406893"
+                link="https://wa.me/556293068692"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Impulsione seus negócios
+                Chamar Whatsapp
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
