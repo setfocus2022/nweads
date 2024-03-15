@@ -21,10 +21,10 @@ export const Footer = ({ children, link = "/" }) => {
           <div>
             <h3>Viva Imóveis</h3>
             <ul>
-              <li>(14) 99740-6893</li>
-              <li>agenciasetfocus@gmail.com</li>
+              <li> (62)998411020 </li>
+              <li>adm@brvivaimoveis.com.br</li>
               <li></li>
-              <li>Lençóis Paulista - SP</li>
+              <li>Aparecida de Goiânia, Goiás</li>
               <li className={styles.social}>
                 <Link href="https://www.instagram.com/setfocusbrasil/">
                   <a target="_blank">
@@ -67,7 +67,7 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Atendimento</h3>
+            <h3>Quer saber o valor do seu imóvel ?</h3>
             <p>Seg - Sex: 08:00 - 18:00</p>
             <p>Sáb: até 12h - Dom: Fechado</p>
           </div>
@@ -75,7 +75,7 @@ export const Footer = ({ children, link = "/" }) => {
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Agência SetFocus Brasil. Todos os direitos reservados.
+        2024 © Viva Imóveis. Todos os direitos reservados.
       </p>
     </>
   );
