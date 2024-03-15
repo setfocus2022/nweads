@@ -124,7 +124,7 @@ export default function Home() {
               <strong2>Avaliação de imóveis:   </strong2> <strong>passo a passo para fazer com precisão</strong>
             </h3>
             <p>
-            Entenda o quanto sua empresa pode crescer<strong> com nossas ações de Publicidade Digital. </strong>
+            Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
             </p>
             <Button link="/produtos" target="_self">
             Saiba Mais sobre Avaliação de Imóveis
