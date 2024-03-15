@@ -39,8 +39,8 @@ export const Header = () => {
             <a>
               <Image
                 src="/icons/logo_transparente.png"
-                alt="SetFocus Brasil"
-                width="150"
+                alt="Viva Imóveis"
+                width="175"
                 height="102"
               />
             </a>
