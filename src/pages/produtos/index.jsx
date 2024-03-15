@@ -36,7 +36,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/pizzaria.jpg"
+            src="/images/avalie.png"
             alt="Opinião Profissional de Valor"
             width="350"
             height="279"
@@ -66,7 +66,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/prod_2.png"
+            src="/images/avalie.png"
             alt="Parecer Técnico de Avaliação Mercadológica"
             width="350"
             height="279"
@@ -94,7 +94,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/prod_3.png"
+            src="/images/avalie.png"
             alt="Parecer Técnico de Avaliação Mercadologica Judicial"
             width="350"
             height="279"
