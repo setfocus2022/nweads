@@ -26,7 +26,7 @@ export const Footer = ({ children, link = "/" }) => {
               <li></li>
               <li>Aparecida de Goiânia, Goiás</li>
               <li className={styles.social}>
-                <Link href="https://www.instagram.com/setfocusbrasil/">
+                <Link href="https://www.instagram.com/vivafelizimoveis/">
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
@@ -36,7 +36,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://wwww.facebook.com/setfocusbrasil">
+                <Link href="https://www.facebook.com/Vivalugarderealizar/">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
