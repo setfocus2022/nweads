@@ -68,7 +68,7 @@ export const Footer = ({ children, link = "/" }) => {
 
           <div>
             <h3>Avaliação de Imóveis?</h3>
-            <p>Fale Conosco</p>
+            <p>Fale Conosco - (Formulario BI)</p>
             <p></p>
           </div>
         </div>
