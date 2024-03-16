@@ -67,9 +67,9 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Quer saber o valor do seu imóvel ?</h3>
-            <p>Seg - Sex: 08:00 - 18:00</p>
-            <p>Sáb: até 12h - Dom: Fechado</p>
+            <h3>Avaliação de Imóveis?</h3>
+            <p>Fale Conosco</p>
+            <p></p>
           </div>
         </div>
       </footer>
