@@ -45,7 +45,7 @@ export default function Tratamentos() {
           <h3> Opinião Profissional de Valor </h3>
           <div className={styles.description}>
             <p>
-            Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido.
+            Laudo Técnico de Avaliação Mercadológica, conhecido também como
         
           <p>Laudo Técnico de Avaliação Mercadológica, conhecido também como PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, titulo obtido através de um curso de extensão para atuar como Avaliador, </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
