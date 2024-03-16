@@ -45,11 +45,9 @@ export default function Tratamentos() {
           <h3> Opinião Profissional de Valor </h3>
           <div className={styles.description}>
             <p>
-            Laudo Técnico de Avaliação Mercadológica, conhecido também como
-        
-          <p>Laudo Técnico de Avaliação Mercadológica, conhecido também como PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, titulo obtido através de um curso de extensão para atuar como Avaliador, </p>
-           <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
-           Não perca tempo e tenha uma site de alta tecnologia já com o seu dominio .com.br e alavanque suas Vendas.</p>
+                    
+          <p>Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto que vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não estão te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judiciário. </p>
+           <p></p>
            <p>Veja modelo  :</p>   
            <Link href="https://lacasapizzabar.vercel.app/">
                   <a target="_blank">
@@ -74,7 +72,7 @@ export default function Tratamentos() {
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
           <div className={styles.description}>
           <p>
-            Site para Loja de Material Elétrico com foco no fortalecmento da marca e aumento da area de atuação de vendas.
+           Laudo Técnico de Avaliação Mercadológica, conhecido também como
         
           <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
