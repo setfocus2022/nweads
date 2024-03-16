@@ -47,7 +47,7 @@ export default function Tratamentos() {
             <p>
             Site disk entrega para Pizzaria com botão que chama o Whatsapp direto para o pedido.
         
-          <p>Desenvolvido em ReactJs de alto desempenho, rapidez e SEO otimizado para o Google, além de estar integrado com o Google Analytcs e Ads para um melhor acompanhamento do desempenho. </p>
+          <p>Laudo Técnico de Avaliação Mercadológica, conhecido também como PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, titulo obtido através de um curso de extensão para atuar como Avaliador, </p>
            <p>Valor já inclui o registro do domínio por 01 ano. Brinde hospedagem grátis por 01 ano. 
            Não perca tempo e tenha uma site de alta tecnologia já com o seu dominio .com.br e alavanque suas Vendas.</p>
            <p>Veja modelo  :</p>   
