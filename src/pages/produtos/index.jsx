@@ -46,7 +46,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
                     
-          <p>A Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não está te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judicial. </p>
+          <p><strong>A Opinião Profissional de Valor</strong> é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não está te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judicial. </p>
            <p></p>
            <p></p>   
            <Link href="">
