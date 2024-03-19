@@ -93,7 +93,7 @@ Geralmente é indicado para negócios entre empresas e particulares e empresas c
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/avalie.png"
+            src="/images/avalie3.png"
             alt="Parecer Técnico de Avaliação Mercadologica Judicial"
             width="350"
             height="279"
