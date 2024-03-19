@@ -46,7 +46,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
             <p>
                     
-          <p>Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto que vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não estão te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judiciário. </p>
+          <p>A Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não está te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judicial. </p>
            <p></p>
            <p></p>   
            <Link href="">
@@ -74,7 +74,9 @@ export default function Tratamentos() {
           <p>
            
         
-          <p>Parecer Técnico de Avaliação Mercadológica, conhecido também como como PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, título obtido através de um curso de extensão para atuar como Avaliador. Segue as normas técnicas da NBR onde é necessário usar de referências no documento que é um laudo bem completo especificando porque se chegou naquele valor. Em ambos os casos chegarmos no mesmo valor, porém, se você precisa por exemplo levar para uma empresa como garantia para um consórcio o indicado é O Parecer Técnico de Avaliação que é mais completo.</p>
+          <p>Parecer Técnico de Avaliação Mercadológica, ou simplesmente sua sigla PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, título obtido através de um curso de extensão para atuar como Avaliador, obedecendo as normas técnicas da NBR pertinentes, que disciplinam entre outros passos a qualidade e tratamento matemático das referências utilizadas no documento, trata-se de um parecer  bem completo especificando como se chegou naquele valor de avaliação.
+Geralmente é indicado para negócios entre empresas e particulares e empresas com outras empresas, ou ainda entre pessoas físicas que necessitem de um melhor assessoramento nos valores, podendo em alguns casos ser aceito para fundamentar valor de garantia para um consórcio ou outras operações de créditos em que o banco não possua cadastro próprio de avaliadores.
+</p>
            <p></p>
            <p></p>   
            <Link href="">
@@ -101,7 +103,9 @@ export default function Tratamentos() {
           <p>
           
         
-          <p>Parecer Técnico de Avaliação Mercadológica Judicial. Este segue além das normas NBR que regula os padrões técnicos, segue também os padrões da justiça que é o juízo de espécie, por isso que ele é considerado um trabalho mais completo onde o nível de exigência é maior.</p>
+          <p>Parecer Técnico de Avaliação Mercadológica Judicial. Bem semelhante ao PTAM COMERCIAL descrito acima, segue todo o rito de qualidade do mesmo em relação a padrão, qualidade de amostras referenciais, conforme normas NBR que regula os padrões técnicos, porém é feito também com o intuito de possuir linguagem jurídica para que sirva de referência em processos judiciais seja pela parte autora, demandada ou para assessora o trabalho do magistrado.
+É também utilizado para contestar um laudo já emitido por outro profissional em um processo judicial, desde que o perito entenda que haja fundamento para tal contestação.
+</p>
            <p></p>
            <p></p>   
            <Link href="">
