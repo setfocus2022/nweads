@@ -64,7 +64,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/avalie.png"
+            src="/images/avalie2.png"
             alt="Parecer Técnico de Avaliação Mercadológica"
             width="350"
             height="279"
