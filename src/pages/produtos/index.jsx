@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
+import { Button } from "../components/Button";
 import { HeaderPage } from "../../components/HeaderPage";
 import { MyImage } from "../../components/MyImage";
 import { Footer } from "../../components/Footer";
@@ -54,7 +55,14 @@ export default function Tratamentos() {
                   
                   </a>
                 </Link>
-           
+
+                <Button
+                onClick={agendarConsulta}
+                link="https://wa.me/556293068692"
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Chamar Whatsapp
+              </Button>       
             </p>
           </div>
         </div>
