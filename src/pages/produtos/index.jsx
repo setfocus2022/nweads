@@ -139,11 +139,17 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
             height="279"
           />
           <h3> Parecer Técnico de Avaliação Mercadologica Judicial</h3>
+          <font face="Arial" color="blue" >Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial</font>
           <div className={styles.description}>
+          <p>   </p>
           <p>
           
         
-          <p>Parecer Técnico de Avaliação Mercadológica Judicial. Bem semelhante ao PTAM COMERCIAL descrito acima, segue todo o rito de qualidade do mesmo em relação a padrão, qualidade de amostras referenciais, conforme normas NBR que regula os padrões técnicos, porém é feito também com o intuito de possuir linguagem jurídica para que sirva de referência em processos judiciais seja pela parte autora, demandada ou para assessora o trabalho do magistrado.
+          <p><br>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.</br>
+
+<br>Com nosso parecer técnico judicial, você terá uma avaliação robusta e fundamentada, aceita em todos os tipos de processos judiciais. Este serviço é essencial para casos comuns, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial. Seja para contestar laudos emitidos por outros profissionais, seja para servir como referência para partes envolvidas, demandadas, ou mesmo para auxiliar o trabalho do magistrado, nosso serviço oferece a segurança e confiabilidade necessárias em qualquer contexto jurídico.</br>
+
+Se você precisa de um Parecer Técnico de Avaliação Mercadológica Judicial para fortalecer sua posição em um processo judicial, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte técnico e jurídico necessário para o sucesso de sua causa.
 É também utilizado para contestar um laudo já emitido por outro profissional em um processo judicial, desde que o perito entenda que haja fundamento para tal contestação.
 </p>
            <p></p>
