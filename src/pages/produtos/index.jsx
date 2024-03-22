@@ -58,7 +58,7 @@ export default function Tratamentos() {
             left
           />
           <h3> Opinião Profissional de Valor </h3>
-          <strong>Indicado para negociação entre particulares</strong>
+          <p><strong>Indicado para negociação entre particulares</strong></p>
           
           <div className={styles.description}>
            
