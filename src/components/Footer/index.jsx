@@ -22,7 +22,7 @@ export const Footer = ({ children, link = "/" }) => {
             <h3>Viva Imóveis</h3>
             <ul>
               <li> 62 9306-8692 </li>
-              <li>adm@brvivaimoveis.com.br</li>
+              <li>https://www.avaliadorimoveisgoias.com.br/</li>
               <li></li>
               <li>Aparecida de Goiânia, Goiás</li>
 
