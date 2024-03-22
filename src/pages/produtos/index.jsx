@@ -72,7 +72,7 @@ export default function Tratamentos() {
 
                 <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/556293068692"
+                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Opinião Profissional de Valor"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Chamar Whatsapp
@@ -106,7 +106,13 @@ Geralmente é indicado para negócios entre empresas e particulares e empresas c
                   
                   </a>
                 </Link>
-           
+                <Button
+                onClick={agendarConsulta}
+                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Parecer Técnico de Avaliação Mercadológica "
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Chamar Whatsapp
+              </Button>  
             </p>
            
           </div>
@@ -135,7 +141,13 @@ Geralmente é indicado para negócios entre empresas e particulares e empresas c
                   
                   </a>
                 </Link>
-           
+                <Button
+                onClick={agendarConsulta}
+                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Parecer Técnico de Avaliação Mercadologica Judicial"
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Chamar Whatsapp
+              </Button>  
             </p>
            
           </div>
