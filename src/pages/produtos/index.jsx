@@ -60,7 +60,7 @@ export default function Tratamentos() {
           <h3> Opinião Profissional de Valor </h3>
           <div className={styles.description}>
             <p>
-            Indicado para negociação entre particulares        
+            <h2>Indicado para negociação entre particulares</h2>        
           <p> Nossa Opinião Profissional de Valor é perfeita para aqueles que estão envolvidos em negociações entre particulares. Talvez você esteja considerando comprar ou vender um imóvel de um amigo ou familiar e queira garantir que está recebendo ou pagando um valor justo. É aqui que entramos em cena.
 
 Com nossa avaliação profissional, você terá uma visão clara e imparcial do valor do imóvel em questão. Não se preocupe se está pagando mais do que o justo ou vendendo abaixo do preço. Nossa análise minuciosa garantirá transparência e segurança em sua transação. Além disso, entregamos o serviço conforme os órgãos regulamentadores, fornecendo um laudo técnico detalhado que explica o processo utilizado para chegar ao valor final de avaliação.
