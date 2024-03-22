@@ -58,11 +58,11 @@ export default function Tratamentos() {
             left
           />
           <h3> Opinião Profissional de Valor </h3>
-         <font face="Arial" color="#002d4b" > Indicado para negociação entre particulares </font>
+         <font face="Arial" color="blue" > Indicado para negociação entre particulares </font>
    
           <div className={styles.description}>
            
-                  
+          <p>   </p>       
             <p>
           <p> Nossa Opinião Profissional de Valor é perfeita para aqueles que estão envolvidos em negociações entre particulares. Talvez você esteja considerando comprar ou vender um imóvel de um amigo ou familiar e queira garantir que está recebendo ou pagando um valor justo. É aqui que entramos em cena.
 
