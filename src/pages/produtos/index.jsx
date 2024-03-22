@@ -138,7 +138,7 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
             width="350"
             height="279"
           />
-          <h3> Parecer Técnico de Avaliação Mercadologica Judicial</h3>
+          <h3> Parecer Técnico de Avaliação Mercadológica Judicial</h3>
           <font face="Arial" color="#002d4b" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
           <div className={styles.description}>
           <p>   </p>
