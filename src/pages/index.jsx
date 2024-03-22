@@ -126,7 +126,7 @@ export default function Home() {
             <p>
             Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
             </p>
-            <Button link="/produtos" target="_self">
+            <Button link="/produtos" >
             Clique aqui e escolha o melhor tipo de avaliação para você. 
             </Button>
           </div>
