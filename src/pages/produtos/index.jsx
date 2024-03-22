@@ -15,15 +15,6 @@ export default function Tratamentos() {
   useEffect(() => {
     Aos.init({ duration: 1000 });
   }, []);
-  return (
-    <>
-
-export default function Home() {
-  const [currentDepositions, setCurrentDepositions] = useState(depositions[0]);
-
-  useEffect(() => {
-    Aos.init({ duration: 1000 });
-  }, []);
 
   function agendarConsulta() {
     gtag.event({
@@ -35,6 +26,10 @@ export default function Home() {
   }
 
   return (
+
+    
+
+    
     <>
       <Head>
         <title>Viva Imóveis Avalie | Avaliação de Imóveis - Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade</title>
