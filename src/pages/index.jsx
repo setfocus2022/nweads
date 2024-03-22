@@ -74,10 +74,10 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/556293068692"
+                link="https://www.avaliadorimoveisgoias.com.br/produtos"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Chamar Whatsapp
+                Clique aqui e escolha o melhor tipo de avaliação para você. 
               </Button>
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
@@ -127,7 +127,7 @@ export default function Home() {
             Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
             </p>
             <Button link="/produtos" target="_self">
-            Clique no botão abaixo e descubra qual o tipo de avaliação é a ideal para você.
+            Clique aqui e escolha o melhor tipo de avaliação para você. 
             </Button>
           </div>
 

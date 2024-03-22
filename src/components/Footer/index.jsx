@@ -25,7 +25,7 @@ export const Footer = ({ children, link = "/" }) => {
               <li>adm@brvivaimoveis.com.br</li>
               <li></li>
               <li>Aparecida de Goiânia, Goiás</li>
-              <li className={styles.social}>
+            {/*     <li className={styles.social}>
                 <Link href="https://www.instagram.com/vivafelizimoveis/">
                   <a target="_blank">
                     <Image
@@ -46,7 +46,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                {/* <Link href="/">
+                <Link href="/">
                   <a>
                     <Image
                       src="/icons/youtubeFooter.svg"
@@ -55,8 +55,8 @@ export const Footer = ({ children, link = "/" }) => {
                       height="27"
                     />
                   </a>
-                </Link> */}
-              </li>
+                </Link> 
+              </li>*/}
             </ul>
           </div>
 

@@ -73,7 +73,7 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/556293068692"
+              link="https://www.avaliadorimoveisgoias.com.br/produtos"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
              Avalie seu imóvel
