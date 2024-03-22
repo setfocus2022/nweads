@@ -63,7 +63,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Milhares de imóveis avaliados, vendidos e alugados.
+            Há mais de 15 anos no Mercado Imobiliário. 
              </p>
            
   
@@ -127,7 +127,7 @@ export default function Home() {
             Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
             </p>
             <Button link="/produtos" target="_self">
-            Saiba Mais sobre Avaliação de Imóveis
+            Clique no botão abaixo e descubra qual o tipo de avaliação é a ideal para você.
             </Button>
           </div>
 
