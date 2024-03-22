@@ -58,7 +58,7 @@ export default function Tratamentos() {
             left
           />
           <h3> Opinião Profissional de Valor </h3>
-         <font face="Arial" color="#002d4b" > <i>Indicado para negociação entre particulares</i> </font>
+         <font face="Arial" color="blue" > <i>Indicado para negociação entre particulares</i> </font>
    
           <div className={styles.description}>
            
@@ -81,10 +81,10 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
 
                 <Button
                 onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Opinião Profissional de Valor"
+                link="https://wa.me//556293068692?text= Olá, eu vim da sua página de avaliação de imóveis e me interessei por OPINIÃO PROFISSIONAL DE VALOR como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Saiba Mais
+                Clique aqui
               </Button>       
             </p>
           </div>
@@ -99,7 +99,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
             height="279"
           />
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
-         <strong><font face="Arial" color="#002d4b" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
+         <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
           <div className={styles.description}>
             <p>   </p>
           <p>
@@ -120,10 +120,10 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
                 </Link>
                 <Button
                 onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Parecer Técnico de Avaliação Mercadológica "
+                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO MERCADOLÓGICA como funciona a contratação da avaliação?"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Saiba Mais
+                Clique aqui
               </Button>  
             </p>
            
@@ -139,7 +139,7 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
             height="279"
           />
           <h3> Parecer Técnico de Avaliação Mercadológica Judicial</h3>
-          <font face="Arial" color="#002d4b" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
+          <font face="Arial" color="blue" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
           <div className={styles.description}>
           <p>   </p>
           <p>
@@ -162,10 +162,10 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
                 </Link>
                 <Button
                 onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text=Gostaria de saber mais sobre Parecer Técnico de Avaliação Mercadologica Judicial"
+                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Saiba Mais
+                Clique aqui
               </Button>  
             </p>
            
