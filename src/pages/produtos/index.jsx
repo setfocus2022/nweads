@@ -145,11 +145,12 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
           <p>
           
         
-          <p>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.
+          <p>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.</p>
 
-Com nosso parecer técnico judicial, você terá uma avaliação robusta e fundamentada, aceita em todos os tipos de processos judiciais. Este serviço é essencial para casos comuns, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial. Seja para contestar laudos emitidos por outros profissionais, seja para servir como referência para partes envolvidas, demandadas, ou mesmo para auxiliar o trabalho do magistrado, nosso serviço oferece a segurança e confiabilidade necessárias em qualquer contexto jurídico.
+<p>Com nosso parecer técnico judicial, você terá uma avaliação robusta e fundamentada, aceita em todos os tipos de processos judiciais. Este serviço é essencial para casos comuns, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial. 
+  Seja para contestar laudos emitidos por outros profissionais, seja para servir como referência para partes envolvidas, demandadas, ou mesmo para auxiliar o trabalho do magistrado, nosso serviço oferece a segurança e confiabilidade necessárias em qualquer contexto jurídico.</p>
 
-Se você precisa de um Parecer Técnico de Avaliação Mercadológica Judicial para fortalecer sua posição em um processo judicial, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte técnico e jurídico necessário para o sucesso de sua causa.
+<p>Se você precisa de um Parecer Técnico de Avaliação Mercadológica Judicial para fortalecer sua posição em um processo judicial, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte técnico e jurídico necessário para o sucesso de sua causa.
 É também utilizado para contestar um laudo já emitido por outro profissional em um processo judicial, desde que o perito entenda que haja fundamento para tal contestação.
 </p>
            <p></p>
