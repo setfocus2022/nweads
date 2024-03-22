@@ -21,7 +21,7 @@ export const Footer = ({ children, link = "/" }) => {
           <div>
             <h3>Viva Imóveis</h3>
             <ul>
-              <li> (62)998411020 </li>
+              <li> 62 9306-8692 </li>
               <li>adm@brvivaimoveis.com.br</li>
               <li></li>
               <li>Aparecida de Goiânia, Goiás</li>
@@ -68,7 +68,7 @@ export const Footer = ({ children, link = "/" }) => {
 
           <div>
             <h3>Avaliação de Imóveis?</h3>
-            <p>Fale Conosco - (Formulario BI)</p>
+            <p>Fale Conosco - 62 9306-8692</p>
             <p></p>
           </div>
         </div>
