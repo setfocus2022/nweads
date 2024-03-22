@@ -58,9 +58,11 @@ export default function Tratamentos() {
             left
           />
           <h3> Opinião Profissional de Valor </h3>
+
+          <h2>Indicado para negociação entre particulares</h2> 
           <div className={styles.description}>
            
-            <h2>Indicado para negociação entre particulares</h2>       
+                  
             <p>
           <p> Nossa Opinião Profissional de Valor é perfeita para aqueles que estão envolvidos em negociações entre particulares. Talvez você esteja considerando comprar ou vender um imóvel de um amigo ou familiar e queira garantir que está recebendo ou pagando um valor justo. É aqui que entramos em cena.
 
