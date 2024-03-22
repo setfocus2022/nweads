@@ -99,7 +99,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
             height="279"
           />
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
-         <strong><font face="Arial" color="#002d4b" >Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</font></strong> 
+         <font face="Arial" color="#002d4b" ><i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
           <div className={styles.description}>
             <p>   </p>
           <p>
