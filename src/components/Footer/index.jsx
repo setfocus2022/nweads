@@ -25,6 +25,23 @@ export const Footer = ({ children, link = "/" }) => {
               <li>adm@brvivaimoveis.com.br</li>
               <li></li>
               <li>Aparecida de Goiânia, Goiás</li>
+
+              <li className={styles.social}>
+              <Link href="https://www.facebook.com/Vivalugarderealizar/">
+                  <a target="_blank">
+                    <Image
+                      src="/icons/faceFooter.svg"
+                      alt="Logo"
+                      width="30"
+                      height="30"
+                    />
+                  </a>
+                </Link>
+
+              </li>
+
+             
+
             {/*     <li className={styles.social}>
                 <Link href="https://www.instagram.com/vivafelizimoveis/">
                   <a target="_blank">
@@ -36,16 +53,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/Vivalugarderealizar/">
-                  <a target="_blank">
-                    <Image
-                      src="/icons/faceFooter.svg"
-                      alt="Logo"
-                      width="30"
-                      height="30"
-                    />
-                  </a>
-                </Link>
+               
                 <Link href="/">
                   <a>
                     <Image
