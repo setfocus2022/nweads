@@ -42,7 +42,7 @@ export default function Home() {
           content=" Avaliação de imóveis ? Somos Especialistas "
       
         />
-        <meta name="author" content="SetFocus Brasil" />
+        <meta name="author" content="Viva Imóveis" />
         
                
       </Head>
@@ -358,7 +358,7 @@ export default function Home() {
           data-aos="fade-down"
         />
       </section>
-   */}
+   
 
       <section className={styles.patients}>
         <Title
@@ -393,7 +393,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-
+*/}
       <Footer />
     </>
   );
