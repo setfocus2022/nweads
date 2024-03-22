@@ -60,7 +60,6 @@ export default function Tratamentos() {
           <h3> Opinião Profissional de Valor </h3>
           <div className={styles.description}>
             <p>
-            Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.
                     
           <p> <strong>A Opinião Profissional de Valor </strong>A Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não está te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judicial. </p>
            <p></p>
@@ -95,10 +94,13 @@ export default function Tratamentos() {
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
           <div className={styles.description}>
           <p>
-           
+          Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.
         
-          <p>Parecer Técnico de Avaliação Mercadológica, ou simplesmente sua sigla PTAM, é um documento emitido por um profissional com formação na área, seja ele Engenheiro, Arquiteto ou Corretor de Imóveis com Certificação e Formação em Avaliação Imobiliária, título obtido através de um curso de extensão para atuar como Avaliador, obedecendo as normas técnicas da NBR pertinentes, que disciplinam entre outros passos a qualidade e tratamento matemático das referências utilizadas no documento, trata-se de um parecer  bem completo especificando como se chegou naquele valor de avaliação.
-Geralmente é indicado para negócios entre empresas e particulares e empresas com outras empresas, ou ainda entre pessoas físicas que necessitem de um melhor assessoramento nos valores, podendo em alguns casos ser aceito para fundamentar valor de garantia para um consórcio ou outras operações de créditos em que o banco não possua cadastro próprio de avaliadores.
+          <p>Nosso Parecer Técnico de Avaliação Mercadológica é indicado para uma variedade de situações, especialmente para negócios entre empresas e particulares, empresas com outras empresas ou até mesmo entre pessoas físicas que precisam de um assessoramento mais completo nos valores. Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas ou instituições financeiras, como consórcios ou operações de crédito.
+
+Com nosso parecer técnico, você terá uma avaliação mercadológica detalhada e fundamentada, proporcionando segurança e confiança em suas transações. Este documento é aceito por diversas instituições e pode ser utilizado para respaldar valores em uma variedade de operações comerciais.
+
+Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garantir o sucesso de suas transações comerciais, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte necessário para suas necessidades empresariais.
 </p>
            <p></p>
            <p></p>   
