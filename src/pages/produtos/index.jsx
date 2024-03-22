@@ -60,6 +60,7 @@ export default function Tratamentos() {
           <h3> Opinião Profissional de Valor </h3>
           <div className={styles.description}>
             <p>
+            Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.
                     
           <p> <strong>A Opinião Profissional de Valor </strong>A Opinião Profissional de Valor é indicada para as pessoas que estão fazendo negócios entre particulares e querem saber quanto vale o imóvel oferecido. É uma opinião de valor, por exemplo, você está comprando de um amigo e não tem noção se o valor oferecido está adequado, e deseja saber se não está te passando um valor acima de mercado. Serve para qualquer transação particular sem valor judicial. </p>
            <p></p>
