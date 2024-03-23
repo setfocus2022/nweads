@@ -74,9 +74,9 @@ export default function Tratamentos() {
 Se esse é o serviço que resolve o seu problema, clique no botão e me chame no WhatsApp. Se o que você precisa ainda não é isso, temos mais duas modalidades de avaliações que estão abaixo. Assista os vídeos e entenda qual delas é a melhor para você. </p>
            <p></p>
            <p></p>  
-
+           <div>
            <iframe width="560" height="315" src="https://www.youtube.com/embed/Bjbdt_GC2pU?si=MB5imYscz_zKtpz5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        
+           </div>
 
 
            <Link href="">
