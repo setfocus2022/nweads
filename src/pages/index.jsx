@@ -90,12 +90,17 @@ export default function Home() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            <MyImage
-              src="/images/hero.png"
-              alt="Paciente Sorrindo na clínica"
-              width="440"
-              height="510"
-            />
+            <video width="320" height="240" controls preload="none">
+      <source src="/images/home.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag.
+    </video>
+
           </div>
         </div>
       </main>
