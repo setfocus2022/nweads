@@ -53,7 +53,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
         <video width="320" height="240" controls preload="none">
-      <source src="/images/opv.mp4" type="video/mp4" />
+      <source src="/images/OPV.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
         kind="subtitles"
