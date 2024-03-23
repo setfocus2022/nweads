@@ -76,7 +76,7 @@ export const Header = () => {
               link="https://www.avaliadorimoveisgoias.com.br/produtos"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-             Avalie seu imóvel
+             Fale Comigo no Whatswapp
             </Button>
           </div>
         </div>
