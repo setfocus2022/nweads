@@ -10,7 +10,7 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
-import React from 'react';
+
 
 export default function Tratamentos() {
   useEffect(() => {
@@ -52,7 +52,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="/images/avalie.png"
+            src="https://www.youtube.com/embed/QCB01i2ze-w"
             alt="Opinião Profissional de Valor"
             width="350"
             height="279"
@@ -75,7 +75,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>
            <p></p>  
 
-           <iframe style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} src="https://www.youtube.com/embed/QCB01i2ze-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         
 
 
            <Link href="">
