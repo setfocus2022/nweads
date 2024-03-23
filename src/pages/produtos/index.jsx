@@ -52,13 +52,16 @@ export default function Tratamentos() {
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/avalie.png"
-            alt="Opinião Profissional de Valor"
-            width="350"
-            height="279"
-            left
-          />
+        <video width="320" height="240" controls preload="none">
+      <source src="/images/opv.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag.
+    </video>
           <h3> Opinião Profissional de Valor </h3>
          <font face="Arial" color="blue" > <i>Indicado para negociação entre particulares</i> </font>
    
@@ -76,16 +79,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>
            <p></p>  
       
-           <video width="320" height="240" controls preload="none">
-      <source src="/images/opv.mp4" type="video/mp4" />
-      <track
-        src="/path/to/captions.vtt"
-        kind="subtitles"
-        srcLang="en"
-        label="English"
-      />
-      Your browser does not support the video tag.
-    </video>
+         
 
            <Link href="">
                   <a target="_blank">
