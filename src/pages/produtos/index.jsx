@@ -11,7 +11,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 import React from 'react';
-import './styles.dashboard.scss';
+
 
 export default function Tratamentos() {
   useEffect(() => {
