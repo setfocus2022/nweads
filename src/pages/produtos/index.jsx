@@ -100,18 +100,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/avalie2.png"
-            alt="Parecer Técnico de Avaliação Mercadológica"
-            width="350"
-            height="279"
-          />
-          <h3>Parecer Técnico de Avaliação Mercadológica </h3>
-         <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
-          <div className={styles.description}>
-            <p>   </p>
-          <p>
-          <video width="320" height="240" controls preload="none">
+        <video width="320" height="240" controls preload="none">
       <source src="/images/PTAM.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -121,6 +110,12 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
       />
       Your browser does not support the video tag.
     </video>
+          <h3>Parecer Técnico de Avaliação Mercadológica </h3>
+         <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
+          <div className={styles.description}>
+            <p>   </p>
+          <p>
+        
         
           <p>Nosso Parecer Técnico de Avaliação Mercadológica é indicado para uma variedade de situações, especialmente para negócios entre empresas e particulares, empresas com outras empresas ou até mesmo entre pessoas físicas que precisam de um assessoramento mais completo nos valores. Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas ou instituições financeiras, como consórcios ou operações de crédito.<p></p>
 
