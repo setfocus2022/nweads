@@ -92,12 +92,7 @@ export default function Home() {
           >
 <video width="520" height="440" poster="/images/avalie23.png" controls preload="none">
       <source src="/images/hero.mp4" type="video/mp4" />
-      <track
-        src="/path/to/captions.vtt"
-        kind="subtitles"
-        srcLang="en"
-        label="English"
-      />
+
       Your browser does not support the video tag.
     </video>
           </div>
