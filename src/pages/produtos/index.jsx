@@ -155,18 +155,7 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/avalie3.png"
-            alt="Parecer Técnico de Avaliação Mercadologica Judicial"
-            width="350"
-            height="279"
-          />
-          <h3> Parecer Técnico de Avaliação Mercadológica Judicial</h3>
-          <font face="Arial" color="blue" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
-          <div className={styles.description}>
-          <p>   </p>
-          <p>
-          <video width="320" height="240" controls preload="none">
+        <video width="320" height="240" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -176,6 +165,12 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
       />
       Your browser does not support the video tag.
     </video>
+          <h3> Parecer Técnico de Avaliação Mercadológica Judicial</h3>
+          <font face="Arial" color="blue" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
+          <div className={styles.description}>
+          <p>   </p>
+          <p>
+
         
         
           <p>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.</p>
