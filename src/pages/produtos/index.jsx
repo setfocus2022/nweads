@@ -72,7 +72,14 @@ export default function Tratamentos() {
 
 Se esse é o serviço que resolve o seu problema, clique no botão e me chame no WhatsApp. Se o que você precisa ainda não é isso, temos mais duas modalidades de avaliações que estão abaixo. Assista os vídeos e entenda qual delas é a melhor para você. </p>
            <p></p>
-           <p></p>   
+           <p></p>  
+
+            <BootstrapCard className="card-stats">
+              <div className="iframe-container" style={{ position: 'relative', overflow: 'hidden', paddingTop: '56.25%' }}>
+                <iframe style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} src="https://www.youtube.com/embed/QCB01i2ze-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>
+            </BootstrapCard>
+             
            <Link href="">
                   <a target="_blank">
                   
