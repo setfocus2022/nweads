@@ -74,9 +74,6 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>
            <p></p>  
 
-     
-          
-                <iframe style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }} src="https://www.youtube.com/embed/QCB01i2ze-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         
 
 
