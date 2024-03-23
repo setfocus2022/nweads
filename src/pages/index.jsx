@@ -91,7 +91,7 @@ export default function Home() {
             data-aos-delay="400"
           >
 <video width="520" height="440" poster="/images/avalie23.png" controls preload="none">
-      <source src="/images/hero.mp4" type="video/mp4" />
+      <source src="/images/home.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
     </video>
