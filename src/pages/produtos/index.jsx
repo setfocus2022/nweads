@@ -11,6 +11,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 import React from 'react';
+import './styles.dashboard.scss';
 
 export default function Tratamentos() {
   useEffect(() => {
@@ -75,9 +76,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>
            <p></p>  
       
-            <video src="/images/home.mp4">
-            src="/images/avalie.png"
-            </video>
+    
 
            <Link href="">
                   <a target="_blank">
