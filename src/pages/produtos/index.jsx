@@ -11,7 +11,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
 
-
 export default function Tratamentos() {
   useEffect(() => {
     Aos.init({ duration: 1000 });
@@ -52,7 +51,7 @@ export default function Tratamentos() {
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
-            src="https://www.youtube.com/embed/QCB01i2ze-w"
+            src="/images/avalie.png"
             alt="Opinião Profissional de Valor"
             width="350"
             height="279"
@@ -75,7 +74,8 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>
            <p></p>  
 
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/x9hZFyoqp7Q?si=X2v6OP26OSp-oDTT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        
 
 
            <Link href="">
