@@ -90,7 +90,7 @@ export default function Home() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
-<video width="320" height="240" poster="/images/avalie.png" controls preload="none">
+<video width="320" height="240" poster="/images/avalie23.png" controls preload="none">
       <source src="/images/hero.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
