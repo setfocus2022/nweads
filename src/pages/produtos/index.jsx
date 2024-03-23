@@ -77,7 +77,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
            <p></p>  
       
            <video width="320" height="240" controls preload="none">
-      <source src="/images/home.mp4" type="video/mp4" />
+      <source src="/images/opv.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
         kind="subtitles"
@@ -117,7 +117,16 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
           <div className={styles.description}>
             <p>   </p>
           <p>
-        
+          <video width="320" height="240" controls preload="none">
+      <source src="/images/PTAM.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag.
+    </video>
         
           <p>Nosso Parecer Técnico de Avaliação Mercadológica é indicado para uma variedade de situações, especialmente para negócios entre empresas e particulares, empresas com outras empresas ou até mesmo entre pessoas físicas que precisam de um assessoramento mais completo nos valores. Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas ou instituições financeiras, como consórcios ou operações de crédito.<p></p>
 
@@ -157,7 +166,17 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
           <div className={styles.description}>
           <p>   </p>
           <p>
-          
+          <video width="320" height="240" controls preload="none">
+      <source src="/images/PTAMJ.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag.
+    </video>
+        
         
           <p>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.</p>
 
