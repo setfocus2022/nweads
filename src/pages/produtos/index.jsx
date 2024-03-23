@@ -74,16 +74,10 @@ export default function Tratamentos() {
 Se esse é o serviço que resolve o seu problema, clique no botão e me chame no WhatsApp. Se o que você precisa ainda não é isso, temos mais duas modalidades de avaliações que estão abaixo. Assista os vídeos e entenda qual delas é a melhor para você. </p>
            <p></p>
            <p></p>  
-           <iframe
-          id="ytplayer"
-          className={}
-          type="text/html"
-          width="100%"
-          height="360"
-          src={`https://www.youtube.com/embed/${videoId}?autoplay=0&origin=http://example.com&controls=0&rel=1`}
-          frameborder="0"
-        ></iframe>
-
+      
+            <video src="/images/home.mp4">
+            src="/images/avalie.png"
+            </video>
 
            <Link href="">
                   <a target="_blank">
