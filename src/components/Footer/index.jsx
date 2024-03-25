@@ -75,8 +75,8 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Avaliação de Imóveis</h3>
-            <p>Fale Conosco - 62 9306-8692</p>
+            <h3>     </h3>
+            <p>   </p>
             <p></p>
           </div>
         </div>
