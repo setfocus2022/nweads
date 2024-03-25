@@ -47,7 +47,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="Avaliação de Imóveis" text align center title="" />
+        <HeaderPage subtitle="Avaliação de Imóveis" text align center title=" " />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
@@ -87,15 +87,16 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
                   </a>
                 </Link>
 
-                <Button
+                   
+            </p>
+          </div>
+          <Button
                 onClick={agendarConsulta}
                 link="https://wa.me//556293068692?text= Olá, eu vim da sua página de avaliação de imóveis e me interessei por OPINIÃO PROFISSIONAL DE VALOR como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Clique aqui
-              </Button>       
-            </p>
-          </div>
+              </Button>    
         </div>
 
 
