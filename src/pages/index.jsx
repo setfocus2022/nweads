@@ -95,18 +95,11 @@ export default function Home() {
 
       Your browser does not support the video tag.
     </video>
-          </div>
-          <Button
-                onClick={agendarConsulta}
-                link="https://www.avaliadorimoveisgoias.com.br/produtos"
-              >
-                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Whatsapp
-              </Button>
-        </div>
+      
       </main>
 
-    {/* <section className={`${styles.about} mainContainer`}>
+      
+     <section className={`${styles.about} mainContainer`}>
        
         <div data-aos="fade-down">
           <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
@@ -141,7 +134,7 @@ export default function Home() {
 
 
         </div>
-      </section>
+     {/* </section>
 
        <section className={styles.treatments}>
         <div data-aos="fade-down">
