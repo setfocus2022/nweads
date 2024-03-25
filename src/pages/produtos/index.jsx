@@ -47,7 +47,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="" text align center title="  Viva Imóveis - Avaliação de Imóveis" />
+        <HeaderPage subtitle="Avaliação de Imóveis" text align center title="Viva Imóveis" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
