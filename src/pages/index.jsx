@@ -101,7 +101,11 @@ export default function Home() {
       </main>
 
      <section className={`${styles.about} mainContainer`}>
-       
+     <video width="340" height="500" poster="/images/avalie23.png" controls preload="none">
+      <source src="/images/home.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
          {/*  <div data-aos="fade-down">
        <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
          <p><strong>Conheça nossas Lojas</strong></p>   
@@ -111,11 +115,7 @@ export default function Home() {
          
         <div className={styles.imgAbout} data-aos="fade-up">
 
-        <video width="340" height="500" poster="/images/avalie23.png" controls preload="none">
-      <source src="/images/home.mp4" type="video/mp4" />
 
-      Your browser does not support the video tag.
-    </video>
            {/*   <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
