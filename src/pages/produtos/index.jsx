@@ -131,16 +131,17 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
                   
                   </a>
                 </Link>
-                <Button
+              
+            </p>
+           
+          </div>
+          <Button
                 onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO MERCADOLÓGICA como funciona a contratação da avaliação?"
+                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Clique aqui
               </Button>  
-            </p>
-           
-          </div>
         </div>
 
 
@@ -178,16 +179,17 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
                   
                   </a>
                 </Link>
-                <Button
+                
+            </p>
+           
+          </div>
+          <Button
                 onClick={agendarConsulta}
                 link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Clique aqui
               </Button>  
-            </p>
-           
-          </div>
         </div>
 
 
