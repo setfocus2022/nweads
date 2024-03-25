@@ -102,10 +102,10 @@ export default function Home() {
 
      <section className={`${styles.about} mainContainer`}>
        
-        <div data-aos="fade-down">
-        {/*  <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
-         <p><strong>Conheça nossas Lojas</strong></p>   */}
-        </div> 
+         {/*  <div data-aos="fade-down">
+       <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
+         <p><strong>Conheça nossas Lojas</strong></p>   
+        </div>  */}
 
         <div className={styles.aboutContent}>
          
