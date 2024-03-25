@@ -70,6 +70,11 @@ export const Header = () => {
           </nav>
 
           <div className={styles.btnAgendar}>
+          <li onClick={agendarConsultaMenu}>
+              <Link href="https://wa.me/556293068692">
+                <a target="_blank">Whatsapp</a>
+              </Link>
+        </li> 
            {/*   <Button
               dark
               onClick={agendarConsulta}
@@ -101,11 +106,11 @@ export const Header = () => {
             </li>
  
            
-          {/*  <li onClick={agendarConsultaMenu}>
+           <li onClick={agendarConsultaMenu}>
               <Link href="https://wa.me/556293068692">
-                <a target="_blank">Avalie seu Imóvel</a>
+                <a target="_blank">Whatsapp</a>
               </Link>
-        </li> */}
+        </li> 
           </ul>
         </nav>
       </header>
