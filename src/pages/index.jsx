@@ -33,7 +33,7 @@ export default function Home() {
     <>
       <Head>
       <script async src="//static.zotabox.com/2/1/210f7c2014d328d90905c8712607b3b3/widgets.js"></script>
-      
+
         <title>Home | Viva Imóveis - Avaliação de Imóveis </title>
         <meta
           name="description"
@@ -93,9 +93,9 @@ export default function Home() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            <Button link="/produtos" >
+         {/*   <Button link="/produtos" >
             Clique aqui e escolha o melhor tipo de avaliação para você. 
-            </Button>
+            </Button> */}
 
 
           </div>
@@ -138,7 +138,7 @@ export default function Home() {
 
             </p>
             <Button link="/produtos" >
-            Clique aqui
+            Clique aqui e escolha o melhor tipo de avaliação para você. 
             </Button>
           </div>
 
