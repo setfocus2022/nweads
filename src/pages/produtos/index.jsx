@@ -52,7 +52,7 @@ export default function Tratamentos() {
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240" controls preload="none">
+        <video width="320" height="240" poster="/images/avalie24.png" controls preload="none">
       <source src="/images/OPV.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -101,7 +101,7 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240" controls preload="none">
+        <video width="320" height="240" poster="/images/avalie25.png" controls preload="none">
       <source src="/images/PTAM.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -146,7 +146,7 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240" controls preload="none">
+        <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
