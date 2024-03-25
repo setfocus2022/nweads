@@ -107,12 +107,12 @@ export default function Home() {
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> */}
            <div className={styles.aboutContent}>
-
-           <div className={styles.imgAbout} data-aos="fade-up">
-           <video width="467" height="367" poster="/images/avalie23.png" controls preload="none">
+           <video width="427" height="307" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
            </video>
+           <div className={styles.imgAbout} data-aos="fade-up">
+
 
     
           {/*  <MyImage
