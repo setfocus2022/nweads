@@ -99,7 +99,7 @@ export default function Home() {
         </div>
       </main>
 
-      <section className={`${styles.about} mainContainer`}>
+    {/*   <section className={`${styles.about} mainContainer`}>
        
         {/*<div data-aos="fade-down">
           <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
@@ -136,7 +136,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/*  <section className={styles.treatments}>
+       <section className={styles.treatments}>
         <div data-aos="fade-down">
           <Title title="Tratamentos" subtitle="Principais serviços" />
         </div>
