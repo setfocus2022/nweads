@@ -72,18 +72,14 @@ export default function Home() {
               data-aos="fade-up"
               data-aos-delay="500"
             >
-                        <Button link="/produtos" >
-            Clique aqui e escolha o melhor tipo de avaliação para você. 
-            </Button>
-
              {/*    <Button
                 onClick={agendarConsulta}
                 link="https://www.avaliadorimoveisgoias.com.br/produtos"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Clique aqui e escolha o melhor tipo de avaliação para você. 
-    </Button>  */}
-
+              </Button> */}
+              
               {/* <span>
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
               </span> */}
@@ -110,14 +106,19 @@ export default function Home() {
         <div className={styles.aboutContent}>
          
         <div className={styles.imgAbout} data-aos="fade-up">
-          {/*  <MyImage
+
+        <video width="320" height="240" poster="/images/avalie23.png" controls preload="none">
+      <source src="/images/home.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+           {/*   <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
               width="540"
               height="500"
               left
             /> */}
-            
           </div>
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
@@ -127,11 +128,7 @@ export default function Home() {
             <p>
             Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
 
-            <video width="320" height="240" poster="/images/avalie23.png" controls preload="none">
-      <source src="/images/home.mp4" type="video/mp4" />
 
-      Your browser does not support the video tag.
-    </video>
             </p>
             <Button link="/produtos" >
             Clique aqui e escolha o melhor tipo de avaliação para você. 
