@@ -46,17 +46,11 @@ export default function Tratamentos() {
         <meta name="author" content=" Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade " />
       </Head>
 
-      <div align center>
-        <HeaderPage subtitle="Avaliação de Imóveis" text align center title="Viva Imóveis" />
+      <div>
+        <HeaderPage subtitle="Avaliação de Imóveis" text align center title="" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
-      <Button
-                onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text= Olá, eu vim da sua página de avaliação de imóveis e me interessei por OPINIÃO PROFISSIONAL DE VALOR como funciona a contratação da avaliação? "
-              >
-                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Clique aqui
-              </Button>
+
         <div className={styles.treatmentsItem} data-aos="fade-up">
         <video width="320" height="240" controls preload="none">
       <source src="/images/OPV.mp4" type="video/mp4" />
@@ -93,17 +87,15 @@ Se esse é o serviço que resolve o seu problema, clique no botão e me chame no
                   </a>
                 </Link>
 
-       
-            </p>
-          </div>
-
-          <Button
+                <Button
                 onClick={agendarConsulta}
                 link="https://wa.me//556293068692?text= Olá, eu vim da sua página de avaliação de imóveis e me interessei por OPINIÃO PROFISSIONAL DE VALOR como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Clique aqui
-              </Button>
+              </Button>       
+            </p>
+          </div>
         </div>
 
 
