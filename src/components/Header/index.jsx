@@ -70,14 +70,14 @@ export const Header = () => {
           </nav>
 
           <div className={styles.btnAgendar}>
-            <Button
+           {/*   <Button
               dark
               onClick={agendarConsulta}
               link="https://www.avaliadorimoveisgoias.com.br/produtos"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
              Fale Comigo no Whatswapp
-            </Button>
+          </Button> */}
           </div>
         </div>
 
