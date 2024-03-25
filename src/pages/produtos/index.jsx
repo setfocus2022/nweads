@@ -46,8 +46,8 @@ export default function Tratamentos() {
         <meta name="author" content=" Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade " />
       </Head>
 
-      <div>
-        <HeaderPage subtitle="Avaliação de Imóveis" text align center title="Viva Imóveis" />
+      <div align center>
+        <HeaderPage subtitle="Viva Imóveis" text align center title="Avaliação de Imóveis" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
