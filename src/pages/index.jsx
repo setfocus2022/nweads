@@ -107,7 +107,7 @@ export default function Home() {
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> */}
            <div className={styles.aboutContent}>
-           <video width="668" height="367" poster="/images/avalie23.png" controls preload="none">
+           <video width="540" height="367" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
            </video>
