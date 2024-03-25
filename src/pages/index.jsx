@@ -95,9 +95,6 @@ export default function Home() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
-                                    <Button link="/produtos" >
-            Clique aqui e escolha o melhor tipo de avaliação para você. 
-            </Button>
 
           </div>
         </div>
@@ -106,16 +103,13 @@ export default function Home() {
      <section className={`${styles.about} mainContainer`}>
        
         <div data-aos="fade-down">
-       {/*      <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" /> */}
+          <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
          <p><strong>Conheça nossas Lojas</strong></p>  
         </div> 
 
         <div className={styles.aboutContent}>
          
         <div className={styles.imgAbout} data-aos="fade-up">
-
-        <video width="320" height="240" poster="/images/avalie23.png" controls preload="none">
-      <source src="/images/home.mp4" type="video/mp4" />
           {/*  <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
@@ -123,8 +117,7 @@ export default function Home() {
               height="500"
               left
             /> */}
-
-
+            
           </div>
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
@@ -134,7 +127,8 @@ export default function Home() {
             <p>
             Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
 
-            
+            <video width="320" height="240" poster="/images/avalie23.png" controls preload="none">
+      <source src="/images/home.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
     </video>
