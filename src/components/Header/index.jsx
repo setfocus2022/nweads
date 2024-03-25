@@ -101,11 +101,11 @@ export const Header = () => {
             </li>
  
            
-            <li onClick={agendarConsultaMenu}>
+          {/*  <li onClick={agendarConsultaMenu}>
               <Link href="https://wa.me/556293068692">
                 <a target="_blank">Avalie seu Imóvel</a>
               </Link>
-            </li>
+        </li> */}
           </ul>
         </nav>
       </header>
