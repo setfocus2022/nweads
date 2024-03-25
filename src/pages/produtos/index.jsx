@@ -47,7 +47,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="S Avaliação de Imóveis" title=" Avaliação de Imóveis "   />
+        <HeaderPage subtitle="Avaliação de Imóveis" />
        
       </div>
       <main className={`${styles.treatments} mainContainer`}>
