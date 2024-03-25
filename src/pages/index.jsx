@@ -99,12 +99,12 @@ export default function Home() {
         </div>
       </main>
 
-    {/*   <section className={`${styles.about} mainContainer`}>
+    {/* <section className={`${styles.about} mainContainer`}>
        
-        {/*<div data-aos="fade-down">
+        <div data-aos="fade-down">
           <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
          <p><strong>Conheça nossas Lojas</strong></p>  
-        </div> */}
+        </div> 
 
         <div className={styles.aboutContent}>
          
@@ -240,7 +240,8 @@ export default function Home() {
             <Link href="/tratamentos">
               <a>Ler mais</a>
             </Link>
-          </div>
+          </div> 
+
           {/* <div className={styles.treatmentItem} data-aos="zoom-in">
             <div className={styles.icon}>
               <img src="/icons/tratamentos2.svg" alt="Implantodontia" />
