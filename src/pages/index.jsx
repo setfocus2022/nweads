@@ -102,24 +102,26 @@ export default function Home() {
 
      <section className={`${styles.about} mainContainer`}>
     
-         {/*  <div data-aos="fade-down">
+        <div data-aos="fade-down">
        <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
          <p><strong>Conheça nossas Lojas</strong></p>   
-        </div>  */}
+        </div> 
 
-        <div className={styles.aboutContent}>
+           <div className={styles.aboutContent}>
          
-        <div className={styles.imgAbout} data-aos="fade-up">
+         {/*   <div className={styles.imgAbout} data-aos="fade-up">
 
 
-           {/*   <MyImage
+           <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
               width="540"
               height="500"
               left
-            /> */}
-          </div>
+            /> 
+          </div>    */}
+
+
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
            {/*   <h3>
@@ -140,6 +142,8 @@ export default function Home() {
           </div>
 
         </div>
+
+
       </section>
 
     {/*    <section className={styles.treatments}>
