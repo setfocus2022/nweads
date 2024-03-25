@@ -95,6 +95,9 @@ export default function Home() {
             data-aos="fade-up"
             data-aos-delay="400"
           >
+                                    <Button link="/produtos" >
+            Clique aqui e escolha o melhor tipo de avaliação para você. 
+            </Button>
 
           </div>
         </div>
