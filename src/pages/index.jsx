@@ -32,6 +32,8 @@ export default function Home() {
   return (
     <>
       <Head>
+      <script async src="//static.zotabox.com/2/1/210f7c2014d328d90905c8712607b3b3/widgets.js"></script>
+      
         <title>Home | Viva Imóveis - Avaliação de Imóveis </title>
         <meta
           name="description"
