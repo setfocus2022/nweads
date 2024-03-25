@@ -109,17 +109,22 @@ export default function Home() {
 
            <div className={styles.aboutContent}>
          
-         {/*   <div className={styles.imgAbout} data-aos="fade-up">
+    
+           <div className={styles.imgAbout} data-aos="fade-up">
 
-
-           <MyImage
+           <video width="340" height="500" poster="/images/avalie23.png" controls preload="none">
+                  <source src="/images/home.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+           </video>
+    
+          {/*  <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
               width="540"
               height="500"
               left
-            /> 
-          </div>    */}
+            /> */}
+          </div>    
 
 
 
@@ -129,15 +134,11 @@ export default function Home() {
           </h3> */}
             <p>
            
-            <video width="340" height="500" poster="/images/avalie23.png" controls preload="none">
-      <source src="/images/home.mp4" type="video/mp4" />
 
-      Your browser does not support the video tag.
-    </video>
 
             </p>
             <Button link="/produtos" >
-            Clique aqui e escolha o melhor tipo de avaliação para você. 
+            Clique aqui
             </Button>
           </div>
 
