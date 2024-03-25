@@ -406,4 +406,5 @@ export default function Home() {
       <Footer />
     </>
   );
+  <script async src="//static.zotabox.com/2/1/210f7c2014d328d90905c8712607b3b3/widgets.js"></script>
 }
