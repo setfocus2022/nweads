@@ -96,6 +96,13 @@ export default function Home() {
       Your browser does not support the video tag.
     </video>
           </div>
+          <Button
+                onClick={agendarConsulta}
+                link="https://www.avaliadorimoveisgoias.com.br/produtos"
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Whatsapp
+              </Button>
         </div>
       </main>
 

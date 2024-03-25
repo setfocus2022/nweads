@@ -96,7 +96,7 @@ export const Header = () => {
             </li>
             <li onClick={closeMenu}>
               <Link href="/produtos">
-                <a>Tipos Avaliação de Imóveis</a>
+                <a>Tipos de Avaliação de Imóveis</a>
               </Link>
             </li>
  
