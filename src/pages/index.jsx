@@ -126,11 +126,11 @@ export default function Home() {
           </div>
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
-            <h3>
+           {/*   <h3>
               <strong2>Avaliação de imóveis:   </strong2> <strong>passo a passo para fazer com precisão</strong>
-            </h3>
+          </h3> */}
             <p>
-            Entenda o quanto é importante<strong> contar com nossa consultoria especializada </strong>
+           
 
 
             </p>
@@ -138,9 +138,6 @@ export default function Home() {
             Clique aqui e escolha o melhor tipo de avaliação para você. 
             </Button>
           </div>
-
-
-
 
         </div>
       </section>
