@@ -63,7 +63,7 @@ export const Header = () => {
               <a>Home</a>
             </Link>
             <Link href="/produtos">
-              <a>Saiba Mais sobre Avaliação de Imóveis</a>
+              <a>Tipos de Avaliação de Imóveis</a>
             </Link>
          
 
@@ -96,7 +96,7 @@ export const Header = () => {
             </li>
             <li onClick={closeMenu}>
               <Link href="/produtos">
-                <a>Saiba Mais sobre Avaliação de Imóveis</a>
+                <a>Tipos Avaliação de Imóveis</a>
               </Link>
             </li>
  
