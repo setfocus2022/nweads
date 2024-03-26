@@ -91,19 +91,11 @@ export default function Home() {
                 Ou nos ligue: <strong>(14) 3264-9999</strong>
               </span> */}
             </div>
+
+            
           </section>
 
-          <div
-            className={styles.imgHero}
-            data-aos="fade-up"
-            data-aos-delay="400"
-          >
-         {/*   <Button link="/produtos" >
-            Clique aqui e escolha o melhor tipo de avaliação para você. 
-            </Button> */}
-
-
-          </div>
+         
         </div>
       </main>
 
