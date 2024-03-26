@@ -38,7 +38,8 @@ export default function Home() {
 </script>
 
 
-        <title>Home | Viva Imóveis - Avaliação de Imóveis </title>
+       <title>Home | Viva Imóveis - Avaliação de Imóveis </title> 
+       <center>
         <meta
           name="description"
           content="Viva Imóveis - Avaliação de Imóveis"
@@ -49,7 +50,7 @@ export default function Home() {
       
         />
         <meta name="author" content="Viva Imóveis" />
-        
+        </center>
                
       </Head>
 
