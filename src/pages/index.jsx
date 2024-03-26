@@ -63,7 +63,7 @@ export default function Home() {
 
       <main className={styles.hero}>
         <div className={`mainContainer ${styles.heroWrap}`}>
-          <section className={styles.leftContent}>
+          <section className={styles.centerContent}>
             <h1 className="title" data-aos="fade-up">
             <center> Avaliação de imóveis? <strong>Somos Especialistas </strong> </center>
             </h1>
