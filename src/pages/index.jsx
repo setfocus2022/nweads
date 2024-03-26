@@ -65,12 +65,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-            <justify> Avaliação de imóveis? <strong>Somos Especialistas </strong> </justify>
+            <center> Avaliação de imóveis? <strong>Somos Especialistas </strong> </center>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            <justify>  Há mais de 15 anos no Mercado Imobiliário.  </justify>
+            <center>  Há mais de 15 anos no Mercado Imobiliário.  </center>
              </p>
            
   
