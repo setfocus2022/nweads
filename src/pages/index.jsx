@@ -40,11 +40,11 @@ export default function Home() {
 
        <title>Home | Viva Imóveis - Avaliação de Imóveis </title> 
        <center>
-        <meta
+        <meta align="center"
           name="description"
           content="Viva Imóveis - Avaliação de Imóveis"
         />
-        <meta
+        <meta align="center"
           name="keywords"
           content=" Avaliação de imóveis ? Somos Especialistas "
       
