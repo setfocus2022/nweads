@@ -39,7 +39,7 @@ export default function Home() {
 
 
        <title>Home | Viva Imóveis - Avaliação de Imóveis </title> 
-       <center>
+       <p>2024 Copyright - All Rights Reserved </p>
         <meta align="center"
           name="description"
           content="Viva Imóveis - Avaliação de Imóveis"
@@ -50,7 +50,7 @@ export default function Home() {
       
         />
         <meta name="author" content="Viva Imóveis" />
-        </center>
+     
                
       </Head>
 
