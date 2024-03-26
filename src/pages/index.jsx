@@ -70,7 +70,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Há mais de 15 anos no Mercado Imobiliário. 
+            <justify>  Há mais de 15 anos no Mercado Imobiliário.  </justify>
              </p>
            
   
