@@ -41,7 +41,7 @@ export const Header = () => {
                 src="/icons/logo_transparente.png"
                 alt="Viva Imóveis"
                 width="180"
-                height="95"
+                height="125"
               />
             </a>
           </Link>
