@@ -39,7 +39,7 @@ export default function Home() {
       
 
 
-       <title>Home | Viva Imóveis - Avaliação de Imóveis </title> 
+       <title>Home | Ads Auto - Avaliação de Imóveis </title> 
        <p>2023 Copyright - All Rights Reserved </p>
         <meta align="center"
           name="keywords"
@@ -47,10 +47,10 @@ export default function Home() {
         />
         <meta align="center"
           name="keywords"
-          content=" Avaliação de imóveis ? Somos Especialistas "
+          content=" Quer Vender seu Veiculo? Somos Especialistas em Ads para Autos "
       
         />
-        <meta name="author" content="Viva Imóveis" />
+        <meta name="author" content="Ads Auto" />
      
                
       </Head>
@@ -66,12 +66,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.centerContent}>
             <h1 className="title" data-aos="fade-up">
-            <center> Avaliação de imóveis? <strong>Somos Especialistas </strong> </center>
+            <center> Precisa vender seu veículo? <strong>Somos Especialistas </strong> </center>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            <center>  Há mais de 15 anos no Mercado Imobiliário.  </center>
+            <center>  Anuncie aqui seu veículo  </center>
              </p>
            
   
@@ -120,7 +120,7 @@ export default function Home() {
 
             </p>
             <Button link="/produtos" >
-            Clique aqui e escolha o melhor tipo de avaliação para você. 
+            Anuncie aqui seu veículo. 
             </Button>
           </div>
 
