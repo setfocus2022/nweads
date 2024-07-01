@@ -39,11 +39,11 @@ export default function Home() {
       
 
 
-       <title>Home | Ads Auto - Avaliação de Imóveis </title> 
-       <p>2023 Copyright - All Rights Reserved </p>
+       <title>Home | Ads Auto - Marketing para Venda de Carros </title> 
+       <p>2024 Copyright - All Rights Reserved </p>
         <meta align="center"
           name="keywords"
-          content="Viva Imóveis - Avaliação de Imóveis"
+          content="Ads Auto - Marketing para Venda de Carros "
         />
         <meta align="center"
           name="keywords"
@@ -91,21 +91,21 @@ export default function Home() {
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> */}
            <div className={styles.aboutContent}>
-           <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
+           {/* <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
-           </video>
+           </video> */}
            <div className={styles.imgAbout} data-aos="fade-up">
 
 
     
-          {/*  <MyImage
+           <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
               width="540"
               height="500"
               left
-            /> */}
+            /> 
           </div>    
 
 
