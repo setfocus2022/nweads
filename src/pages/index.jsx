@@ -66,7 +66,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.centerContent}>
             <h1 className="title" data-aos="fade-up">
-            <center> Precisa vender seu veículo? <strong>Somos Especialistas </strong> </center>
+            <center> Hora de Vender? <strong>Te damos uma força! </strong> </center>
             </h1>
 
           
