@@ -91,10 +91,12 @@ export default function Home() {
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> 
            <div className={styles.aboutContent}>
-            <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
+            
+           {/* <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
-           </video> 
+           </video> */}
+
            <div className={styles.imgAbout} data-aos="fade-up">
 
 
@@ -328,7 +330,7 @@ export default function Home() {
             title="Laís Coneglian Dutra"
             subtitle="Conheça nossa doutora"
           />
-          <p className={styles.centerContent}>
+          <p className={styles.doctorText}>
             Laís é formada na Faculdade de Odontologia de Bauru - USP (2019) que
             é considerada a melhor faculdade de odontologia do mundo pelo
             ranking CWUR, além de outros rankings. É também especialista em
