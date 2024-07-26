@@ -115,7 +115,7 @@ export default function Home() {
               <strong2>Avaliação de imóveis:   </strong2> <strong>passo a passo para fazer com precisão</strong>
           </h3> */}
             <p>
-           
+           Propaganda é a "arma" do Negócio
 
 
             </p>
