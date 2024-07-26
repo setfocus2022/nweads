@@ -40,8 +40,8 @@ export const Header = () => {
               <Image
                 src="/icons/logo_transparente.png"
                 alt="Viva Imóveis"
-                width="170"
-                height="148"
+                width="160"
+                height="138"
               />
             </a>
           </Link>
@@ -70,6 +70,9 @@ export const Header = () => {
             </Link>
             <Link href="/produtos">
               <a>Contato</a>
+            </Link>
+            <Link href="/produtos">
+              <a>Ferramentas</a>
             </Link>
             <Link href="/produtos">
               <a>Minha Conta</a>
@@ -121,6 +124,11 @@ export const Header = () => {
             <li onClick={closeMenu}>
               <Link href="/produtos">
                 <a>Contato</a>
+              </Link>
+            </li>
+            <li onClick={closeMenu}>
+              <Link href="/produtos">
+                <a>Ferramentas</a>
               </Link>
             </li>
             <li onClick={closeMenu}>
