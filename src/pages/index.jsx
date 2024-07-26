@@ -86,15 +86,15 @@ export default function Home() {
 
      <section className={`${styles.about} mainContainer`}>
     
-         {/*  <div data-aos="fade-down">
+          <div data-aos="fade-down">
        <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
          <p><strong>Conheça nossas Lojas</strong></p>   
-        </div> */}
+        </div> 
            <div className={styles.aboutContent}>
-           {/* <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
+            <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
-           </video> */}
+           </video> 
            <div className={styles.imgAbout} data-aos="fade-up">
 
 
