@@ -111,12 +111,12 @@ export default function Home() {
 
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
-           {/*   <h3>
-              <strong2>Avaliação de imóveis:   </strong2> <strong>passo a passo para fazer com precisão</strong>
-          </h3> */}
+              <h3>
+              <strong2> Propaganda é a arma do Negócio  </strong2> <strong>do Negócio</strong>
+          </h3> 
             <p>
-           Propaganda é a arma do Negócio
 
+           Propaganda é a arma do Negócio
 
             </p>
             <Button link="/produtos" >
