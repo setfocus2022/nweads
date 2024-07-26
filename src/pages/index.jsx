@@ -84,7 +84,7 @@ export default function Home() {
         </div>
       </main>
 
-     <section className={`${styles.about} mainContainer`}>
+     <section className={`${styles.hero} mainContainer`}>
     
           <div data-aos="fade-down">
        <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" />
@@ -96,6 +96,7 @@ export default function Home() {
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
            </video> */}
+            ;  
 
            <div className={styles.imgAbout} data-aos="fade-up">
 
