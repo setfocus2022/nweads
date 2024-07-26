@@ -40,8 +40,8 @@ export const Header = () => {
               <Image
                 src="/icons/logo_transparente.png"
                 alt="Viva Imóveis"
-                width="190"
-                height="158"
+                width="170"
+                height="148"
               />
             </a>
           </Link>
