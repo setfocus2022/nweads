@@ -21,10 +21,10 @@ export const Footer = ({ children, link = "/" }) => {
           <div>
             <h3>Viva Imóveis</h3>
             <ul>
-              <li> 62 9306-8692 </li>
-              <li>https://www.avaliadorimoveisgoias.com.br/</li>
+              <li> 14 99740-6893 </li>
+              <li>https://www.adsauto.com.br</li>
               <li></li>
-              <li>Aparecida de Goiânia, Goiás</li>
+              <li>Lençóis Paulista - SP</li>
 
               <li className={styles.social}>
               <Link href="https://www.facebook.com/Vivalugarderealizar/">
