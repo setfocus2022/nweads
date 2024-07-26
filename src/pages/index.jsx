@@ -129,7 +129,7 @@ export default function Home() {
 
       </section>
 
-    {/*    <section className={styles.treatments}>
+       <section className={styles.treatments}>
         <div data-aos="fade-down">
           <Title title="Tratamentos" subtitle="Principais serviços" />
         </div>
@@ -386,7 +386,7 @@ export default function Home() {
           ))}
         </div>
       </section>
-*/}
+
       <Footer />
     </>
   );
