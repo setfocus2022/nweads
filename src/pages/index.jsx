@@ -328,7 +328,7 @@ export default function Home() {
             title="Laís Coneglian Dutra"
             subtitle="Conheça nossa doutora"
           />
-          <p className={styles.doctorText}>
+          <p className={styles.centerContent}>
             Laís é formada na Faculdade de Odontologia de Bauru - USP (2019) que
             é considerada a melhor faculdade de odontologia do mundo pelo
             ranking CWUR, além de outros rankings. É também especialista em
