@@ -91,7 +91,7 @@ export default function Home() {
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> 
            <div className={styles.aboutContent}>
-            
+
            {/* <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
                   <source src="/images/home.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
@@ -324,7 +324,7 @@ export default function Home() {
       
  
 
-      <section className={`${styles.doctor} mainContainer`}>
+      {/* <section className={`${styles.doctor} mainContainer`}>
         <div className={styles.doctorContent} data-aos="fade-up">
           <Title
             title="Laís Coneglian Dutra"
@@ -352,7 +352,7 @@ export default function Home() {
           objectFit="contain"
           data-aos="fade-down"
         />
-      </section>
+      </section>  */} 
    
 
       <section className={styles.patients}>
