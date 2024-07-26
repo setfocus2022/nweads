@@ -235,7 +235,7 @@ export default function Home() {
             </Link>
           </div> 
 
-          {/* <div className={styles.treatmentItem} data-aos="zoom-in">
+          <div className={styles.treatmentItem} data-aos="zoom-in">
             <div className={styles.icon}>
               <img src="/icons/tratamentos2.svg" alt="Implantodontia" />
             </div>
