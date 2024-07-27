@@ -155,7 +155,7 @@ export default function Home() {
           <div className={styles.treatmentItem} data-aos="zoom-in">
             <div className={styles.icon}>
               <img
-                src="/icons/profilaxia.svg"
+                src="/icons/sobreDoutora.png"
                 alt="Profilaxia"
                 width={32}
                 height={32}
