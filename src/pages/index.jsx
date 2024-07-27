@@ -60,7 +60,7 @@ export default function Home() {
           Aberto: Seg - Sex: 08:00 - 18:00 | Av. Principal, 999 - Lençóis
           Paulista -SP
         </p>
-      </div> */}
+      </div> 
 
       <main className={styles.hero}>
         <div className={`mainContainer ${styles.heroWrap}`}>
@@ -83,7 +83,7 @@ export default function Home() {
          
         </div>
       </main>
-
+*/}
      <section className={`${styles.about} mainContainer`}>
     
           <div data-aos="fade-down">
