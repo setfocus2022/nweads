@@ -157,8 +157,8 @@ export default function Home() {
               <img
                 src="/icons/sobreDoutora.png"
                 alt="Profilaxia"
-                width={32}
-                height={32}
+                width={150}
+                height={150}
               />
             </div>
             <h3>Profilaxia</h3>
