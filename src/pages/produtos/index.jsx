@@ -68,7 +68,7 @@ export default function Tratamentos() {
     </video>   */} 
 
     <MyImage
-            src="/images/week4.jpg"
+            src="/images/week4.jpeg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
