@@ -55,10 +55,8 @@ export default function Home() {
                
       </Head>
 
-      <div>
-        <HeaderPage subtitle="Avaliação de Imóveis"    />
-       
-      </div>
+
+    
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -208,6 +206,28 @@ Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garan
                 Clique aqui
               </Button>  
         </div>
+
+
+
+
+
+  
+        {/* <div className={styles.treatmentsItem} data-aos="fade-up">
+          <MyImage
+            src="/images/"
+            alt="Fios de PDO"
+            width="350"
+            height="279"
+            left
+          />
+          <h3>Fios de PDO</h3>
+          <div className={styles.description}>
+            <p>São inseridos na derme com o intuito de estimular o colágeno.</p>
+          </div>
+        </div> */}
+
+   
+      </main>
 
 
       <div className={styles.schedule}>
