@@ -130,7 +130,10 @@ export default function Home() {
         </div>
 
        
-    
+      </section>
+
+      
+      
  
 
       <section className={`${styles.doctor} mainContainer`}>
