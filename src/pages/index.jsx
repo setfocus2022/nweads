@@ -362,7 +362,7 @@ export default function Home() {
           objectFit="contain"
           data-aos="fade-down"
         />
-      </section>  */} 
+      </section>  
    
 
       <section className={styles.patients}>
