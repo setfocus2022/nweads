@@ -83,9 +83,9 @@ export default function Home() {
          
         </div>
       </main>
-*/}
 
 
+ 
 
      <section className={`${styles.about} mainContainer`}>
     
@@ -95,10 +95,7 @@ export default function Home() {
         </div> 
            <div className={styles.aboutContent}>
               Tevez
-           {/* <video width="387" height="307" poster="/images/avalie23.png" controls preload="none">
-                  <source src="/images/home.mp4" type="video/mp4" />
-                  Your browser does not support the video tag.
-           </video> */}
+           
             ;  
 
            <div className={styles.imgAbout} data-aos="fade-up">
@@ -163,13 +160,15 @@ export default function Home() {
                 width={32}
                 height={32}
               />
-                  <MyImage
+                
+            <MyImage
             src="/images/pizzaria.jpg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
             left
-          />
+            />
+
             </div>
             <h3>Profilaxia</h3>
             <p>
@@ -331,7 +330,7 @@ export default function Home() {
             Ver todos tratamentos
           </Button>
         </div>
-      </section> 
+      </section>   */}
       
  
 
