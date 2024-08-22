@@ -76,20 +76,18 @@ export default function Tratamentos() {
           />
 
           <h3> Palio Adventure Locker </h3>
-         <font face="Arial" color="blue" > <i>Indicado para negociação entre particulares</i> </font>
+         <font face="Arial" color="blue" > <i>Valor à Vista R$ 35990</i> </font>
    
           <div className={styles.description}>
            
           <p>   </p>       
             <p>
-          <p> Nossa Opinião Profissional de Valor é perfeita para aqueles que estão envolvidos em negociações entre particulares. Talvez você esteja considerando comprar ou vender um imóvel de um amigo ou familiar e queira garantir que está recebendo ou pagando um valor justo. É aqui que entramos em cena.</p>
+          <p> - Ano 2003 </p>
 
-<p> Com nossa avaliação profissional, você terá uma visão clara e imparcial do valor do imóvel em questão. Não se preocupe se está pagando mais do que o justo ou vendendo abaixo do preço. Nossa análise minuciosa garantirá transparência e segurança em sua transação. Além disso, entregamos o serviço conforme os órgãos regulamentadores, fornecendo um laudo técnico detalhado que explica o processo utilizado para chegar ao valor final de avaliação.</p> 
+          <p> Modelo Adventure Locker</p> 
 
-<p>É importante observar que essa Opinião de Valor não é um documento válido processos júricos como casos de partilha de bens, em divórcios,  inventários ou herança. 
-
-Se esse é o serviço que resolve o seu problema, clique no botão e me chame no WhatsApp. Se o que você precisa ainda não é isso, temos mais duas modalidades de avaliações que estão abaixo. Assista os vídeos e entenda qual delas é a melhor para você. </p>
-           <p></p>
+          <p> Completa </p>
+           <p> </p>
            <p></p>  
       
          
