@@ -55,7 +55,7 @@ export default function Home() {
                
       </Head>
 
-      {/* <div className={styles.schedule}>
+      <div className={styles.schedule}>
         <p>
           Aberto: Seg - Sex: 08:00 - 18:00 | Av. Principal, 999 - Lençóis
           Paulista -SP
@@ -129,7 +129,7 @@ export default function Home() {
 
         </div>
 
-
+       {/*
       </section>
 
        <section className={styles.treatments}>
