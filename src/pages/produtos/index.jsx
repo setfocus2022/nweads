@@ -66,6 +66,15 @@ export default function Tratamentos() {
       />
       Your browser does not support the video tag.
     </video>
+
+    <MyImage
+            src="/images/pizzaria.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
+          
           <h3> Opinião Profissional de Valor </h3>
          <font face="Arial" color="blue" > <i>Indicado para negociação entre particulares</i> </font>
    
