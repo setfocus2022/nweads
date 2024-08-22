@@ -84,6 +84,9 @@ export default function Home() {
         </div>
       </main>
 */}
+
+
+
      <section className={`${styles.about} mainContainer`}>
     
           <div data-aos="fade-down">
@@ -155,11 +158,18 @@ export default function Home() {
           <div className={styles.treatmentItem} data-aos="zoom-in">
             <div className={styles.icon}>
               <img
-                src="/icons/sobreDoutora.png"
+                src="/icons/profilaxia.svg"
                 alt="Profilaxia"
-                width={150}
-                height={150}
+                width={32}
+                height={32}
               />
+                  <MyImage
+            src="/images/pizzaria.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
             </div>
             <h3>Profilaxia</h3>
             <p>
