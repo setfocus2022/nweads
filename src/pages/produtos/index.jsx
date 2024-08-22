@@ -103,10 +103,10 @@ export default function Tratamentos() {
           </div>
           <Button
                 onClick={agendarConsulta}
-                link="https://wa.me//556293068692?text= Olá, eu vim da sua página de avaliação de imóveis e me interessei por OPINIÃO PROFISSIONAL DE VALOR como funciona a contratação da avaliação? "
+                link="https://wa.me//556293068692?text= Olá, eu vim da sua página de ADS Auto e me interessei pelo veículo Palio Adventure Locker "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Clique aqui
+                Fale com o Vendedor
               </Button>    
         </div>
 
