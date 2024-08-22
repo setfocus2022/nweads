@@ -56,7 +56,7 @@ export default function Tratamentos() {
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240" poster="/images/avalie24.png" controls preload="none">
+      {/*   <video width="320" height="240" poster="/images/avalie24.png" controls preload="none">
       <source src="/images/OPV.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -65,7 +65,7 @@ export default function Tratamentos() {
         label="English"
       />
       Your browser does not support the video tag.
-    </video>
+    </video>   */} 
 
     <MyImage
             src="/images/pizzaria.jpg"
@@ -74,7 +74,7 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          
+
           <h3> Opinião Profissional de Valor </h3>
          <font face="Arial" color="blue" > <i>Indicado para negociação entre particulares</i> </font>
    
