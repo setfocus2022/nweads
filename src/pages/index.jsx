@@ -129,7 +129,7 @@ export default function Home() {
 
         </div>
 
-       {/*
+       
       </section>
 
        <section className={styles.treatments}>
@@ -330,11 +330,11 @@ export default function Home() {
             Ver todos tratamentos
           </Button>
         </div>
-      </section>   */}
+      </section>  
       
  
 
-      {/* <section className={`${styles.doctor} mainContainer`}>
+      <section className={`${styles.doctor} mainContainer`}>
         <div className={styles.doctorContent} data-aos="fade-up">
           <Title
             title="Laís Coneglian Dutra"
