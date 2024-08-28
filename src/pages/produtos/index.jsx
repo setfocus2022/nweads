@@ -53,6 +53,8 @@ export default function Tratamentos() {
         <HeaderPage subtitle="Avaliação de Imóveis"    />
        
       </div>
+
+      
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -112,7 +114,7 @@ export default function Tratamentos() {
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240" poster="/images/avalie25.png" controls preload="none">
+    {/*      <video width="320" height="240" poster="/images/avalie25.png" controls preload="none">
       <source src="/images/PTAM.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -121,7 +123,17 @@ export default function Tratamentos() {
         label="English"
       />
       Your browser does not support the video tag.
-    </video>
+    </video>  */} 
+
+<MyImage
+            src="/images/week4.jpeg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
+
+
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
          <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
           <div className={styles.description}>
