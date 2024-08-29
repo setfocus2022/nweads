@@ -166,7 +166,7 @@ export default function Tratamentos() {
 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-        <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
+        {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -174,26 +174,32 @@ export default function Tratamentos() {
         srcLang="en"
         label="English"
       />
-      Your browser does not support the video tag.
-    </video>
-          <h3> Parecer Técnico de Avaliação Mercadológica Judicial</h3>
-          <font face="Arial" color="blue" >  <i>Indicado para todos tipos de processos judiciais, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial </i></font>
+      Your browser does not support the video tag. 
+
+
+    </video> */} 
+
+<MyImage
+            src="/images/corsa1.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
+
+
+          <h3> Pixape Corsa 2001</h3>
+          <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-          <p>   </p>
-          <p>
+          <p>   </p>       
+            <p>
+          <p> 2001 </p>
 
-        
-        
-          <p>Nosso Parecer Técnico de Avaliação Mercadológica Judicial segue os mais rigorosos padrões de qualidade, semelhante ao PTAM Comercial, conforme normas NBR que regem os padrões técnicos. No entanto, este serviço é especialmente elaborado com linguagem jurídica, tornando-o ideal para processos judiciais.</p>
+          <p>Pixape Corsa 2001</p> 
 
-<p>Com nosso parecer técnico judicial, você terá uma avaliação robusta e fundamentada, aceita em todos os tipos de processos judiciais. Este serviço é essencial para casos comuns, como separações, partilhas de herança, avaliação patrimonial e qualquer outro processo que envolva o poder judicial. 
-  Seja para contestar laudos emitidos por outros profissionais, seja para servir como referência para partes envolvidas, demandadas, ou mesmo para auxiliar o trabalho do magistrado, nosso serviço oferece a segurança e confiabilidade necessárias em qualquer contexto jurídico.</p>
-
-<p>Se você precisa de um Parecer Técnico de Avaliação Mercadológica Judicial para fortalecer sua posição em um processo judicial, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte técnico e jurídico necessário para o sucesso de sua causa.
-É também utilizado para contestar um laudo já emitido por outro profissional em um processo judicial, desde que o perito entenda que haja fundamento para tal contestação.
-</p>
-           <p></p>
-           <p></p>   
+          <p>  </p>
+           <p> </p>
+           <p></p>  
            <Link href="">
                   <a target="_blank">
                   
@@ -208,7 +214,7 @@ export default function Tratamentos() {
                 link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Clique aqui
+                Fale com o Vendedor
               </Button>  
         </div>
 
