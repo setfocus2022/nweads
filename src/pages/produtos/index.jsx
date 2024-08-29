@@ -126,7 +126,7 @@ export default function Tratamentos() {
     </video>  */} 
 
 <MyImage
-            src="/images/week4.jpeg"
+            src="/images/volks1.jpeg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
