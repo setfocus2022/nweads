@@ -135,11 +135,11 @@ export default function Tratamentos() {
 
 
           <h3>Parati Completa</h3>
-         <strong><font face="Arial" color="blue" > <i>2009</i></font></strong> 
+         <strong><font face="Arial" color="blue" > <i>Valor a Vista R$ 26000 </i></font></strong> 
           <div className={styles.description}>
           <p>   </p>       
             <p>
-          <p> Valor a Vista R$ 26000 </p>
+          <p> 2009 </p>
 
           <p>Parati Completa</p> 
 
