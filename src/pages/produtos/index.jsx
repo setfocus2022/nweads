@@ -139,9 +139,9 @@ export default function Tratamentos() {
           <div className={styles.description}>
           <p>   </p>       
             <p>
-          <p> - Ano 2003 </p>
+          <p> - Ano 2009 </p>
 
-          <p> Modelo Adventure Locker</p> 
+          <p>Parati Completa</p> 
 
           <p> Completa </p>
            <p> </p>
@@ -160,7 +160,7 @@ export default function Tratamentos() {
                 link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
-                Clique aqui
+                Fale com o Vendedor
               </Button>  
         </div>
 
