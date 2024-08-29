@@ -138,14 +138,13 @@ export default function Tratamentos() {
          <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
           <div className={styles.description}>
             <p>   </p>
-          <p>
+      
         
         
-          <p>Psrati 2009<p></p>
+          <p>Psrati 2009 </p>
 
 <p>R$ 28000</p>
 
-</p>
            <p>Entrada + Promissorias/p>
            <p></p>   
            <Link href="">
