@@ -134,8 +134,8 @@ export default function Tratamentos() {
           />
 
 
-          <h3>Parecer Técnico de Avaliação Mercadológica </h3>
-         <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
+          <h3>Parati Completa</h3>
+         <strong><font face="Arial" color="blue" > <i>2009</i></font></strong> 
           <div className={styles.description}>
           <p>   </p>       
             <p>
