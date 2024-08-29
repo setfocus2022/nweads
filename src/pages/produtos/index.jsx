@@ -139,7 +139,7 @@ export default function Tratamentos() {
           <div className={styles.description}>
           <p>   </p>       
             <p>
-          <p> - Ano 2009 </p>
+          <p> Valor a Vista R$ 26000 </p>
 
           <p>Parati Completa</p> 
 
