@@ -35,7 +35,7 @@ export default function Tratamentos() {
     <>
       <Head>
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16510775654"></script>
+       {/*  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16510775654"></script>  */} 
       
         <title>Viva Imóveis Avalie | Avaliação de Imóveis - Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade</title>
         <meta
