@@ -271,6 +271,113 @@ export default function Tratamentos() {
               </Button>  
         </div>
 
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+        {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
+      <source src="/images/PTAMJ.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag. 
+
+
+    </video> */} 
+
+<MyImage
+            src="/images/corsa1.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
+
+
+          <h3> Picape Corsa 2001</h3>
+          <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
+          <div className={styles.description}>
+          <p>   </p>       
+            <p>
+          <p> 2001 </p>
+
+          <p>Picape Corsa 2001</p> 
+
+          <p>  </p>
+           <p> </p>
+           <p></p>  
+           <Link href="">
+                  <a target="_blank">
+                  
+                  </a>
+                </Link>
+                
+            </p>
+           
+          </div>
+          <Button
+                onClick={agendarConsulta}
+                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Fale com o Vendedor
+              </Button>  
+        </div>
+
+
+        <div className={styles.treatmentsItem} data-aos="fade-up">
+        {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
+      <source src="/images/PTAMJ.mp4" type="video/mp4" />
+      <track
+        src="/path/to/captions.vtt"
+        kind="subtitles"
+        srcLang="en"
+        label="English"
+      />
+      Your browser does not support the video tag. 
+
+
+    </video> */} 
+
+<MyImage
+            src="/images/corsa1.jpg"
+            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            width="350"
+            height="279"
+            left
+          />
+
+
+          <h3> Picape Corsa 2001</h3>
+          <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
+          <div className={styles.description}>
+          <p>   </p>       
+            <p>
+          <p> 2001 </p>
+
+          <p>Picape Corsa 2001</p> 
+
+          <p>  </p>
+           <p> </p>
+           <p></p>  
+           <Link href="">
+                  <a target="_blank">
+                  
+                  </a>
+                </Link>
+                
+            </p>
+           
+          </div>
+          <Button
+                onClick={agendarConsulta}
+                link="https://wa.me//556293068692?text=Olá, eu vim da sua página de avaliação de imóveis e me interessei por PARECER TÉCNICO DE AVALIAÇÃO JUDICIAL como funciona a contratação da avaliação? "
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Fale com o Vendedor
+              </Button>  
+        </div>
+
 
 
 
