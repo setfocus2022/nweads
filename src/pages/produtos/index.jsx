@@ -188,14 +188,14 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Pixape Corsa 2001</h3>
+          <h3> Picape Corsa 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
           <p>   </p>       
             <p>
           <p> 2001 </p>
 
-          <p>Pixape Corsa 2001</p> 
+          <p>Picape Corsa 2001</p> 
 
           <p>  </p>
            <p> </p>
