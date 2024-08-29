@@ -89,7 +89,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
               <h3>
-              <strong2> Precisa Vender? </strong2> <strong>do Negócio</strong>
+              <strong2> Precisa Vender? </strong2> <strong>A Gente te Ajuda</strong>
           </h3> 
             <p>
 
