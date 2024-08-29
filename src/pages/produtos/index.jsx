@@ -44,13 +44,13 @@ export default function Tratamentos() {
         />
         <meta
           name="keywords"
-          content="Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade"
+          content="ADS Auto| Anuncie seu Veículo"
         />
         <meta name="author" content=" Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade " />
       </Head>
 
       <div>
-        <HeaderPage subtitle="Avaliação de Imóveis"    />
+        <HeaderPage subtitle="Venda de Veículos"    />
        
       </div>
 
