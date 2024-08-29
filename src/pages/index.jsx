@@ -89,7 +89,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
               <h3>
-              <strong2> Propaganda é a arma do Negócio  </strong2> <strong>do Negócio</strong>
+              <strong2> Precisa Vender? </strong2> <strong>do Negócio</strong>
           </h3> 
             <p>
 
