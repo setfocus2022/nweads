@@ -126,7 +126,7 @@ export default function Tratamentos() {
     </video>  */} 
 
 <MyImage
-            src="/images/week4.jpeg"
+            src="/images/wolks1.jpeg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
@@ -137,18 +137,15 @@ export default function Tratamentos() {
           <h3>Parecer Técnico de Avaliação Mercadológica </h3>
          <strong><font face="Arial" color="blue" > <i>Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas e até algumas instituições financeiras, como consórcios ou operações de crédito.</i></font></strong> 
           <div className={styles.description}>
-            <p>   </p>
-          <p>
-        
-        
-          <p>Nosso Parecer Técnico de Avaliação Mercadológica é indicado para uma variedade de situações, especialmente para negócios entre empresas e particulares, empresas com outras empresas ou até mesmo entre pessoas físicas que precisam de um assessoramento mais completo nos valores. Este serviço é ideal quando você precisa oferecer um imóvel como garantia para empresas, pessoas físicas ou instituições financeiras, como consórcios ou operações de crédito.<p></p>
+          <p>   </p>       
+            <p>
+          <p> - Ano 2003 </p>
 
-<p>Com nosso parecer técnico, você terá uma avaliação mercadológica detalhada e fundamentada, proporcionando segurança e confiança em suas transações. Este documento é aceito por diversas instituições e pode ser utilizado para respaldar valores em uma variedade de operações comerciais.</p>
+          <p> Modelo Adventure Locker</p> 
 
-Se você precisa de um Parecer Técnico de Avaliação Mercadológica para garantir o sucesso de suas transações comerciais, clique no botão abaixo e entre em contato conosco. Estamos prontos para oferecer o suporte necessário para suas necessidades empresariais.
-</p>
-           <p></p>
-           <p></p>   
+          <p> Completa </p>
+           <p> </p>
+           <p></p>  
            <Link href="">
                   <a target="_blank">
                   
