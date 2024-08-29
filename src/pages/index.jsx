@@ -34,18 +34,12 @@ export default function Home() {
       <Head>
       <script async src="//static.zotabox.com/2/1/210f7c2014d328d90905c8712607b3b3/widgets.js"></script>
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16510775654"></script>
+   
 
       
       
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-61KK36TT9J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-61KK36TT9J');
-</script>
 
        <title>Home | Ads Auto - Marketing para Venda de Carros </title> 
        <p>2024 Copyright - All Rights Reserved </p>
