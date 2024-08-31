@@ -219,6 +219,8 @@ export default function Tratamentos() {
         </div>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
+
+
         {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
@@ -241,14 +243,14 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Peugeot 206 Completo/h3>
+          <h3> Peugeot 206 Completo</h3>
           <font face="Arial" color="blue" >  <i>R$ 17000</i></font>
           <div className={styles.description}>
           <p>   </p>       
             <p>
           <p> 2001 </p>
 
-          <p>Picape Corsa 2001</p> 
+          <p>Peugeot 206 Completo</p> 
 
           <p>  </p>
            <p> </p>
