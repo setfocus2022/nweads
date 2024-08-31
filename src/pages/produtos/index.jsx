@@ -37,7 +37,7 @@ export default function Tratamentos() {
 
        {/*  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16510775654"></script>  */} 
       
-        <title>Viva Imóveis Avalie | Avaliação de Imóveis - Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade</title>
+        <title>ADS Auto  | Venda de Carros Onlie  - Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade</title>
         <meta
           name="description"
           content="Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade"
@@ -50,6 +50,8 @@ export default function Tratamentos() {
       </Head>
 
       <div>
+
+        <p>Hinode </p>
         <HeaderPage subtitle="Venda de Veículos"    />
        
       </div>
@@ -298,7 +300,7 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Kadet 1994 Kadet Alcool Original </h3>
+          <h3> Kadet 1994 Alcool Original </h3>
           <font face="Arial" color="blue" >  <i>R$ 14000 </i></font>
           <div className={styles.description}>
           <p>   </p>       
