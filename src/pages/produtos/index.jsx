@@ -235,7 +235,7 @@ export default function Tratamentos() {
     </video> */} 
 
 <MyImage
-            src="/images/corsa1.jpg"
+            src="/images/peugeot1.jpg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
@@ -297,11 +297,11 @@ export default function Tratamentos() {
 
 
           <h3> Picape Corsa 2001</h3>
-          <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
+          <font face="Arial" color="blue" >  <i>R$ 17000 </i></font>
           <div className={styles.description}>
           <p>   </p>       
             <p>
-          <p> 2001 </p>
+          <p> 2006 </p>
 
           <p>Picape Corsa 2001</p> 
 
