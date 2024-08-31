@@ -298,7 +298,7 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Kadet 2004 Kadet 2004 Alcool Original </h3>
+          <h3> Kadet 1994 Kadet Alcool Original </h3>
           <font face="Arial" color="blue" >  <i>R$ 14000 </i></font>
           <div className={styles.description}>
           <p>   </p>       
