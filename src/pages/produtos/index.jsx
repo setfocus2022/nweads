@@ -290,7 +290,7 @@ export default function Tratamentos() {
     </video> */} 
 
 <MyImage
-            src="/images/peugeot1.jpg"
+            src="/images/kadet1.jpg"
             alt="Pizzaria e Lanchonetes - Delivery em Geral"
             width="350"
             height="279"
@@ -298,17 +298,17 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Picape Corsa 2001</h3>
-          <font face="Arial" color="blue" >  <i>R$ 17000 </i></font>
+          <h3> Kadet 2004 Kadet 2004 Alcool Original </h3>
+          <font face="Arial" color="blue" >  <i>R$ 14000 </i></font>
           <div className={styles.description}>
           <p>   </p>       
             <p>
-          <p> 2006 </p>
+          <p> 1994 Alcool Original </p>
 
-          <p>Picape Corsa 2001</p> 
+          <p>Kadet 2004 Alcool Original </p> 
 
-          <p>  </p>
-           <p> </p>
+          <p> Vidro Elétrico </p>
+           <p> Motor Novo </p>
            <p></p>  
            <Link href="">
                   <a target="_blank">
