@@ -90,7 +90,7 @@ export default function Tratamentos() {
           <p> </p>  
            <Link href="www.google.com">
                   <a target="_blank">
-                  
+                  Google
                   </a>
                 </Link>
      
