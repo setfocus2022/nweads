@@ -79,16 +79,13 @@ export default function Tratamentos() {
             left
           />
 
-          <h3> Palio Adventure Locker </h3>
+          <h3> Palio Adventure Locker 2010 </h3>
          <font face="Arial" color="blue" > <i>Valor à Vista R$ 38000</i> </font>
    
           <div className={styles.description}>
-           
-          <p>   </p>       
+                         
             <p>
-          <p> - Ano 2010</p>
-
-          <p> Modelo Adventure Locker</p> 
+                    <p> Modelo Adventure Locker</p> 
 
           <p> Completa </p>
            <p> </p>
@@ -136,16 +133,16 @@ export default function Tratamentos() {
           />
 
 
-          <h3>Parati Completa</h3>
+          <h3>Parati Completa 2009 </h3>
          <strong><font face="Arial" color="blue" > <i>Valor a Vista R$ 26000 </i></font></strong> 
           <div className={styles.description}>
-          <p>   </p>       
+            
             <p>
-          <p> 2009 </p>
+          <p> </p>
 
-          <p>Parati Completa</p> 
+          <p></p> 
 
-          <p> Completa </p>
+          <p> </p>
            <p> </p>
            <p></p>  
            <Link href="">
