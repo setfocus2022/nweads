@@ -177,7 +177,7 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Picape Corsa 2001</h3>
+          <h3> Picape Corsa Basica 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
            
