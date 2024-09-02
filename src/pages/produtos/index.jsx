@@ -181,17 +181,17 @@ export default function Tratamentos() {
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
            
-            <p>  </p> 
-            <p></p> 
-            <p></p>        
-           <p></p>  
-           <p></p> 
-           <Link href="www.eletrosantaclara.com.br">
+             
+          <p> </p>
+            <p> - </p>
+           <p>  </p>  
+           <p> -  </p> 
+           <p> </p>
+           <Link href="wwww.eletrosangtaclara.com.br">
                   <a target="_blank">
-                  
+                  Eletro Santa Clara
                   </a>
                 </Link>
-                
            
            
           </div>
