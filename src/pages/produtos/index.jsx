@@ -51,7 +51,7 @@ export default function Tratamentos() {
 
       <div>
 
-        <p>Hinode </p>
+        <p>Hinode u</p>
         <HeaderPage subtitle="Venda de Veículos"    />
        
       </div>
@@ -80,7 +80,7 @@ export default function Tratamentos() {
           />
 
           <h3> Palio Adventure Locker </h3>
-         <font face="Arial" color="blue" > <i>Valor à Vista R$ 35990</i> </font>
+         <font face="Arial" color="blue" > <i>Valor à Vista R$ 38000</i> </font>
    
           <div className={styles.description}>
            
