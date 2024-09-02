@@ -83,24 +83,17 @@ export default function Tratamentos() {
          <font face="Arial" color="blue" > <i>Valor à Vista R$ 38000</i> </font>
    
           <div className={styles.description}>
-                         
-            <p>
-                    <p> Modelo Adventure Locker</p> 
-
+          <p>  </p>
+          <p> Modelo Adventure Locker</p> 
+          <p> </p>
           <p> Completa </p>
-           <p> </p>
-           <p></p>  
-      
-         
-
-           <Link href="">
+          <p> </p>  
+           <Link href="www.google.com">
                   <a target="_blank">
                   
                   </a>
                 </Link>
-
-                   
-            </p>
+     
           </div>
           <Button
                 onClick={agendarConsulta}
