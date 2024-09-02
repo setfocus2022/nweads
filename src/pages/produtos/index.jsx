@@ -93,7 +93,7 @@ export default function Tratamentos() {
                   Google
                   </a>
                 </Link>
-     
+                <p> </p>
           </div>
           <Button
                 onClick={agendarConsulta}
@@ -140,7 +140,7 @@ export default function Tratamentos() {
                   Eletro Santa Clara
                   </a>
                 </Link>
-              
+                <p> </p>    
            
            
           </div>
@@ -192,7 +192,7 @@ export default function Tratamentos() {
                   Eletro Santa Clara
                   </a>
                 </Link>
-           
+                <p> </p> 
            
           </div>
           <Button
