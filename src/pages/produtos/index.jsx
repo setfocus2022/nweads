@@ -130,8 +130,10 @@ export default function Tratamentos() {
          <strong><font face="Arial" color="blue" > <i>Valor a Vista R$ 26000 </i></font></strong> 
           <div className={styles.description}>
             
-            <p>
             <p> </p>
+            <p> </p>
+           <p></p>  
+           <p></p>  
            <p></p>  
            <Link href="">
                   <a target="_blank">
@@ -139,7 +141,7 @@ export default function Tratamentos() {
                   </a>
                 </Link>
               
-            </p>
+           
            
           </div>
           <Button
@@ -179,16 +181,18 @@ export default function Tratamentos() {
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
            
-            <p>
-                   
+            <p>  </p> 
+            <p></p> 
+            <p></p>        
            <p></p>  
-           <Link href="">
+           <p></p> 
+           <Link href="www.eletrosantaclara.com.br">
                   <a target="_blank">
                   
                   </a>
                 </Link>
                 
-            </p>
+           
            
           </div>
           <Button
