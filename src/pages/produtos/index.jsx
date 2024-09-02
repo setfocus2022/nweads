@@ -84,9 +84,9 @@ export default function Tratamentos() {
    
           <div className={styles.description}>
           <p>  </p>
-          <p> Modelo Adventure Locker</p> 
+          <p> - Modelo Adventure Locker</p> 
           <p> </p>
-          <p> Completa </p>
+          <p> - Completa </p>
           <p> </p>  
            <Link href="www.google.com">
                   <a target="_blank">
@@ -130,11 +130,11 @@ export default function Tratamentos() {
          <strong><font face="Arial" color="blue" > <i>Valor a Vista R$ 26000 </i></font></strong> 
           <div className={styles.description}>
             
-            <p> 1 </p>
-            <p> 2  </p>
-           <p> 3 </p>  
-           <p> 4 </p>  
-           <p> 5 </p>  
+            <p> </p>
+            <p> - </p>
+           <p>  </p>  
+           <p> -  </p> 
+
            <Link href="">
                   <a target="_blank">
                   
