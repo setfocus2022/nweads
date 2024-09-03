@@ -37,16 +37,16 @@ export default function Tratamentos() {
 
        {/*  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16510775654"></script>  */} 
       
-        <title>ADS Auto  | Venda de Carros Onlie  - Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade</title>
+        <title>ADS Auto  | Venda de Carros Online  - Lençóis Paulista - Bauru - Marília</title>
         <meta
           name="description"
-          content="Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade"
+          content="ADS Auto | Publicidade para Venda Carros"
         />
         <meta
           name="keywords"
           content="ADS Auto| Anuncie seu Veículo"
         />
-        <meta name="author" content=" Viva Imóveis Avalie | Avaliação de Imóveis Goiânia,Goianira,Senador Canedo,parecida de Goiania,Trindade " />
+        <meta name="author" content=" ADS Auto | Publicidade para Venda Carros" />
       </Head>
 
       <div>
@@ -73,7 +73,7 @@ export default function Tratamentos() {
 
     <MyImage
             src="/images/week4.jpeg"
-            alt="Pizzaria e Lanchonetes - Delivery em Geral"
+            alt="ADS Auto | Publicidade para Venda Carros"
             width="350"
             height="279"
             left
@@ -135,9 +135,9 @@ export default function Tratamentos() {
            <p>  </p>  
            <p> -  </p> 
            <p> </p>
-           <Link href="wwww.eletrosangtaclara.com.br">
+           <Link href="www.google.com">
                   <a target="_blank">
-                  Eletro Santa Clara
+                  Google
                   </a>
                 </Link>
                 <p> - </p>    
@@ -187,9 +187,9 @@ export default function Tratamentos() {
            <p>  </p>  
            <p> -  </p> 
            <p> </p>
-           <Link href="wwww.eletrosangtaclara.com.br">
+           <Link href="wwww.google.com">
                   <a target="_blank">
-                  Eletro Santa Clara
+                  Google
                   </a>
                 </Link>
                 <p> - </p> 
