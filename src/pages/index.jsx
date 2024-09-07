@@ -56,10 +56,7 @@ export default function Home() {
      
                
       </Head>
-
-
-    
-     
+  
 
  
 
@@ -69,15 +66,9 @@ export default function Home() {
        {/* <Title color="blue" title="junior" subtitle="Conheça nossas Lojas" /> */}
          <p><strong>Conheça nossas Lojas</strong></p>   
         </div> 
-           <div className={styles.aboutContent}>
-              Tevez
-           
+           <div className={styles.aboutContent}>                       
             ;  
-
            <div className={styles.imgAbout} data-aos="fade-up">
-
-
-    
            <MyImage
               src="/images/fachada.jpg"
               alt="Fachada"
@@ -86,9 +77,6 @@ export default function Home() {
               left
             /> 
           </div>    
-
-
-
           <div className={styles.aboutRightContent} data-aos="fade-up">
               <h3>
               <strong2> Precisa Vender? </strong2> <strong>A Gente te Ajuda</strong>
