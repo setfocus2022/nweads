@@ -16,7 +16,7 @@ export default function Tratamentos() {
   return (
     <>
       <Head>
-        <title>Produtos | Materiais Elétricos - Eletro Santa Clara</title>
+        <title>Palio Weekend Locker | ADS Auto </title>
         <meta
           name="description"
           content="As melhores marcas. Produtos certificados e qualificados"
@@ -29,7 +29,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="As melhores marcas" title="Produtos Certificados." />
+        <HeaderPage subtitle="Palio Weekend Locker " title="2010 Completa" />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
