@@ -101,7 +101,7 @@ export default function Tratamentos() {
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale com o Vendedor
-              </Button>    
+         </Button>    
         </div>
 
 

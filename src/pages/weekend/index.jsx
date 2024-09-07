@@ -9,6 +9,19 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
+import { useEffect } from "react";
+import Head from "next/head";
+import Image from "next/image";
+import Link from "next/link";
+import { Button } from "../../components/Button";
+import { HeaderPage } from "../../components/HeaderPage";
+import { MyImage } from "../../components/MyImage";
+import { Footer } from "../../components/Footer";
+import { Title } from "../../components/Title";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import styles from "./styles.module.scss";
+import React from 'react';
 
 export default function Tratamentos() {
   useEffect(() => {
