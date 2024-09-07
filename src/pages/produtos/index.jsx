@@ -81,13 +81,11 @@ export default function Tratamentos() {
 
           <h3> Palio Adventure Locker 2010 </h3>
          <font face="Arial" color="blue" > <i>Valor à Vista R$ 38000</i> </font>
-   
-          <div className={styles.description}>
-          <p>  </p>
-          <p> - Modelo Adventure Locker</p> 
-          <p> </p>
-          <p> - Completa </p>
-          <p> </p>  
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p>  
            <Link href="www.google.com">
                   <a target="_blank">
                   Google
@@ -129,12 +127,11 @@ export default function Tratamentos() {
           <h3>Parati Completa 2009 </h3>
          <strong><font face="Arial" color="blue" > <i>Valor a Vista R$ 26000 </i></font></strong> 
           <div className={styles.description}>
-            
-            <p> </p>
-            <p> - </p>
-           <p>  </p>  
-           <p> -  </p> 
-           <p> </p>
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
            <Link href="www.google.com">
                   <a target="_blank">
                   Google
@@ -180,13 +177,11 @@ export default function Tratamentos() {
           <h3> Picape Corsa Basica 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-           
-             
-          <p> </p>
-            <p> - </p>
-           <p>  </p>  
-           <p> -  </p> 
-           <p> </p>
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
            <Link href="wwww.google.com">
                   <a target="_blank">
                   Google
@@ -229,27 +224,22 @@ export default function Tratamentos() {
           />
 
 
-          <h3> Peugeot 206 Completo</h3>
+          <h3> Peugeot 206 Completo </h3>
           <h2><font face="Arial" color="red" >  R$ 17.000,00 </font> </h2>
           <div className={styles.description}>
-          <p>  Ótimo estado. Carro novo pra rodar  </p>       
-            <p>
-          <p> 4 Pneus Novos </p>
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
 
-
-
-          <p>Peugeot 206 Completo</p> 
-
-          <p>  </p>
-           <p> </p>
-           <p></p>  
            <Link href="">
                   <a target="_blank">
                   <h3>Ver Mais Fotos</h3>
                   </a>
                 </Link>
                 
-            </p>
+           
            
           </div>
           <Button
