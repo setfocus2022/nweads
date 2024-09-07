@@ -29,8 +29,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <p> Odair </p>
-      <h2><font face="Arial" color="red" > Palio Adventure Locker  </font></h2>
+              
 
       <h3> Palio Adventure Locker  </h3>
       <h2>2010 Completa </h2>
@@ -42,7 +41,7 @@ export default function Tratamentos() {
       </main>
 
       <section className={styles.images}>
-          <Title title="2010 Completa " subtitle=" " />    
+          <Title title="Palio Weekend Locker" subtitle=" 2010 Completa " />    
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
