@@ -42,7 +42,7 @@ export default function Tratamentos() {
       </main>
 
       <section className={styles.images}>
-     {/*     <Title title="2010 Completa " subtitle=" " />    */} 
+          <Title title="2010 Completa " subtitle=" " />    
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
