@@ -42,7 +42,7 @@ export default function Tratamentos() {
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto1.png"
+              src="/images/week1.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -51,7 +51,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto2.png"
+              src="/images/week2.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -60,7 +60,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto3.png"
+              src="/images/week3.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -69,7 +69,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto4.png"
+              src="/images/week4.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -78,7 +78,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto5.png"
+              src="/images/week5.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
@@ -87,7 +87,7 @@ export default function Tratamentos() {
           </li>
           <li data-aos="zoom-in-up">
             <Image
-              src="/images/produto6.png"
+              src="/images/week6.jpeg"
               alt="Produtos em Destaque"
               width={460}
               height={390}
