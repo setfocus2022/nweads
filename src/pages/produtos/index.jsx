@@ -81,11 +81,13 @@ export default function Tratamentos() {
 
           <h3> Palio Adventure Locker 2010 </h3>
          <font face="Arial" color="blue" > <i>Valor à Vista R$ 38000</i> </font>
+   
+          <div className={styles.description}>
           <p> Ano : </p>  
           <p> Local :  </p>       
           <p> Fabricante : </p>
           <p> Modelo : </p>
-          <p> Descrição : </p>  
+          <p> Descrição : </p> 
            <Link href="www.google.com">
                   <a target="_blank">
                   Google
