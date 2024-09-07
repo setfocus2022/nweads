@@ -48,14 +48,16 @@ export default function Tratamentos() {
        </main>
       <section className={styles.images}>
           <Title title="Palio Weekend Locker" subtitle=" 2010 Completa " />    
-
+          <div>
           <Button
                 onClick={agendarConsulta}
                 link="https://wa.me//5514997406893?text= Olá, eu vim da sua página de ADS Auto e me interessei pelo veículo Palio Adventure Locker "
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale com o Vendedor
-         </Button>    
+         </Button>   
+             </div>
+ 
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
