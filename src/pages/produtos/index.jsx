@@ -90,7 +90,7 @@ export default function Tratamentos() {
           <p> Descrição : </p> 
            <Link href="www.google.com">
                   <a target="_blank">
-                  Google
+                  <h2>Ver Mais Fotos</h2>
                   </a>
                 </Link>
                 <p> - </p>
@@ -136,7 +136,7 @@ export default function Tratamentos() {
           <p> Descrição : </p> 
            <Link href="www.google.com">
                   <a target="_blank">
-                  Google
+                  <h2>Ver Mais Fotos</h2>
                   </a>
                 </Link>
                 <p> - </p>    
@@ -186,7 +186,7 @@ export default function Tratamentos() {
           <p> Descrição : </p> 
            <Link href="wwww.google.com">
                   <a target="_blank">
-                  Google
+                  <h2>Ver Mais Fotos</h2>
                   </a>
                 </Link>
                 <p> - </p> 
@@ -235,6 +235,7 @@ export default function Tratamentos() {
           <p> Modelo : </p>
           <p> Descrição : </p> 
 
+          <p>  </p> 
            <Link href="">
                   <a target="_blank">
                   <h2>Ver Mais Fotos</h2>
