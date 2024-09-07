@@ -29,7 +29,7 @@ export default function Tratamentos() {
       </Head>
 
       <div>
-        <HeaderPage subtitle="Palio Weekend Locker " title="Palio Weekend Locker " />
+        <HeaderPage subtitle=" " title="Palio Weekend Locker " />
       </div>
       <main className={`${styles.treatments} mainContainer`}>
 
