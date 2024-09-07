@@ -27,19 +27,13 @@ export default function Tratamentos() {
         />
         <meta name="author" content=" Eletro Santa Clara" />
       </Head>
-
-      <div>
-              
-
-      <h3> Palio Adventure Locker  </h3>
-      <h2>2010 Completa </h2>
-        {/*   <HeaderPage subtitle=" " title="Palio Weekend Locker " />   */} 
-      </div>
+ {/*
+      <div>         
+          <HeaderPage subtitle=" " title="Palio Weekend Locker " />  
+      </div> */} 
+      
       <main className={`${styles.treatments} mainContainer`}>
-      <h3> Palio Adventure Locker  </h3>
-      <h2>2010 Completa </h2>
-      </main>
-
+       </main>
       <section className={styles.images}>
           <Title title="Palio Weekend Locker" subtitle=" 2010 Completa " />    
 
