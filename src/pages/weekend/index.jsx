@@ -37,7 +37,7 @@ export default function Tratamentos() {
       </main>
 
       <section className={styles.images}>
-        <Title title="Material Elétrico é na Eletro Santa Clara" subtitle="Qualidade é Nosso Destaque" />
+        <Title title="Palio Weekend Locker " subtitle="2010 Completa" />
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
