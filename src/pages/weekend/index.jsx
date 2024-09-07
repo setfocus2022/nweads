@@ -29,6 +29,9 @@ export default function Tratamentos() {
       </Head>
 
       <div>
+
+      <h3> Palio Adventure Locker  </h3>
+      <h2>2010 Completa </h2>
         {/*   <HeaderPage subtitle=" " title="Palio Weekend Locker " />   */} 
       </div>
       <main className={`${styles.treatments} mainContainer`}>
