@@ -230,7 +230,7 @@ export default function Tratamentos() {
 
 
           <h3> Peugeot 206 Completo</h3>
-          <h2><font face="Arial" color="red" >  <i>R$ 17000</i> </font> </h2>
+          <h2><font face="Arial" color="red" >  R$ 17.000,00 </font> </h2>
           <div className={styles.description}>
           <p>  Ótimo estado. Carro novo pra rodar  </p>       
             <p>
