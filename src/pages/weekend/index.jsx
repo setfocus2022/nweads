@@ -48,7 +48,7 @@ export default function Tratamentos() {
        </main>
       <section className={styles.images}>
           <Title title="Palio Weekend Locker" subtitle=" 2010 Completa " />    
-          <div>
+          <div align="center">
           <Button
                 onClick={agendarConsulta}
                 link="https://wa.me//5514997406893?text= Olá, eu vim da sua página de ADS Auto e me interessei pelo veículo Palio Adventure Locker "
