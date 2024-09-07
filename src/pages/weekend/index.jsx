@@ -9,24 +9,22 @@ import { Title } from "../../components/Title";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import styles from "./styles.module.scss";
-import { useEffect } from "react";
-import Head from "next/head";
-import Image from "next/image";
-import Link from "next/link";
-import { Button } from "../../components/Button";
-import { HeaderPage } from "../../components/HeaderPage";
-import { MyImage } from "../../components/MyImage";
-import { Footer } from "../../components/Footer";
-import { Title } from "../../components/Title";
-import Aos from "aos";
-import "aos/dist/aos.css";
-import styles from "./styles.module.scss";
-import React from 'react';
+
 
 export default function Tratamentos() {
   useEffect(() => {
     Aos.init({ duration: 1000 });
   }, []);
+
+  function agendarConsulta() {
+    gtag.event({
+      action: "agendar_consulta",
+      category: "marcar_consulta_whatsapp",
+      label: "Novo Contato",
+      value: "Orçamento",
+    });
+  }
+
   return (
     <>
       <Head>
@@ -51,7 +49,13 @@ export default function Tratamentos() {
       <section className={styles.images}>
           <Title title="Palio Weekend Locker" subtitle=" 2010 Completa " />    
 
-
+          <Button
+                onClick={agendarConsulta}
+                link="https://wa.me//5514997406893?text= Olá, eu vim da sua página de ADS Auto e me interessei pelo veículo Palio Adventure Locker "
+              >
+                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
+                Fale com o Vendedor
+         </Button>    
 
         <ul className={`${styles.imagesContainer} mainContainer`}>
           <li data-aos="zoom-in-up">
