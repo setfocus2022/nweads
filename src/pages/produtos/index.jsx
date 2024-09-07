@@ -237,7 +237,7 @@ export default function Tratamentos() {
 
            <Link href="">
                   <a target="_blank">
-                  <h3>Ver Mais Fotos</h3>
+                  <h2>Ver Mais Fotos</h2>
                   </a>
                 </Link>
                 
