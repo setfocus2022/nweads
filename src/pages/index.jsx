@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-      <script async src="//static.zotabox.com/2/1/210f7c2014d328d90905c8712607b3b3/widgets.js"></script>
+      <script async src="//static.zotabox.com/9/1/91aee11a6170922cbfb29e7b88750e18/widgets.js"></script>
 
    
 
