@@ -285,12 +285,12 @@ export default function Tratamentos() {
           <p> Fabricante : </p>
           <p> Modelo : </p>
           <p> Descrição : </p> 
+          <p>  </p> 
            <Link href="">
                   <a target="_blank">
-                  
+                  <h2>Ver Mais Fotos</h2>
                   </a>
                 </Link>
-                
          
            
           </div>
