@@ -286,7 +286,7 @@ export default function Tratamentos() {
           <p> Modelo : </p>
           <p> Descrição : </p> 
           <p>  </p> 
-           <Link href="">
+           <Link href="https://www.adsauto.com.br/kadet">
                   <a target="_blank">
                   <h2>Ver Mais Fotos</h2>
                   </a>
