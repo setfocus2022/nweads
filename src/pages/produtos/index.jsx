@@ -201,10 +201,10 @@ export default function Tratamentos() {
               </Button>  
         </div>
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
+       {/*  <div className={styles.treatmentsItem} data-aos="fade-up">
 
 
-        {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
+        <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
         src="/path/to/captions.vtt"
@@ -215,7 +215,7 @@ export default function Tratamentos() {
       Your browser does not support the video tag. 
 
 
-    </video> */} 
+    </video> 
 
 <MyImage
             src="/images/peugeot1.png"
@@ -252,9 +252,11 @@ export default function Tratamentos() {
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale com o Vendedor
               </Button>  
-        </div>
+        </div>  */} 
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
+
+          
         {/*    <video width="320" height="240"  poster="/images/avalie26.png" controls preload="none">
       <source src="/images/PTAMJ.mp4" type="video/mp4" />
       <track
