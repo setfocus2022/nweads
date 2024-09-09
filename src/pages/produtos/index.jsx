@@ -88,6 +88,7 @@ export default function Tratamentos() {
           <p> Fabricante : </p>
           <p> Modelo : </p>
           <p> Descrição : </p> 
+          <p> Parcelamento : Entrada + Promissória </p> 
            <Link href="https://www.adsauto.com.br/weekend">
                   <a target="_blank">
                   <h2>Ver Mais Fotos</h2>
@@ -134,6 +135,8 @@ export default function Tratamentos() {
           <p> Fabricante : </p>
           <p> Modelo : </p>
           <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>    </p> 
            <Link href="www.google.com">
                   <a target="_blank">
                   <h2>Ver Mais Fotos</h2>
@@ -184,6 +187,8 @@ export default function Tratamentos() {
           <p> Fabricante : </p>
           <p> Modelo : </p>
           <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>   </p>
            <Link href="wwww.google.com">
                   <a target="_blank">
                   <h2>Ver Mais Fotos</h2>
@@ -287,6 +292,7 @@ export default function Tratamentos() {
           <p> Fabricante : </p>
           <p> Modelo : </p>
           <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
           <p>  </p> 
            <Link href="https://www.adsauto.com.br/kadet">
                   <a target="_blank">
@@ -332,22 +338,20 @@ export default function Tratamentos() {
           <h3> Picape Corsa 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-          <p>   </p>       
-            <p>
-          <p> 2001 </p>
-
-          <p>Picape Corsa 2001</p> 
-
-          <p>  </p>
-           <p> </p>
-           <p></p>  
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>  </p> 
            <Link href="">
                   <a target="_blank">
                   
                   </a>
                 </Link>
                 
-            </p>
+           
            
           </div>
           <Button
@@ -386,22 +390,20 @@ export default function Tratamentos() {
           <h3> Picape Corsa 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-          <p>   </p>       
-            <p>
-          <p> 2001 </p>
-
-          <p>Picape Corsa 2001</p> 
-
-          <p>  </p>
-           <p> </p>
-           <p></p>  
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>  </p> 
            <Link href="">
                   <a target="_blank">
                   
                   </a>
                 </Link>
                 
-            </p>
+            
            
           </div>
           <Button
@@ -438,23 +440,19 @@ export default function Tratamentos() {
           <h3> Picape Corsa 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-          <p>   </p>       
-            <p>
-          <p> 2001 </p>
-
-          <p>Picape Corsa 2001</p> 
-
-          <p>  </p>
-           <p> </p>
-           <p></p>  
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>  </p> 
            <Link href="">
                   <a target="_blank">
                   
                   </a>
                 </Link>
-                
-            </p>
-           
+                          
           </div>
           <Button
                 onClick={agendarConsulta}
@@ -490,23 +488,20 @@ export default function Tratamentos() {
           <h3> Picape Corsa 2001</h3>
           <font face="Arial" color="blue" >  <i>R$ 22000 </i></font>
           <div className={styles.description}>
-          <p>   </p>       
-            <p>
-          <p> 2001 </p>
-
-          <p>Picape Corsa 2001</p> 
-
-          <p>  </p>
-           <p> </p>
-           <p></p>  
+          <p> Ano : </p>  
+          <p> Local :  </p>       
+          <p> Fabricante : </p>
+          <p> Modelo : </p>
+          <p> Descrição : </p> 
+          <p> Parcelamento : </p> 
+          <p>  </p>  
            <Link href="">
                   <a target="_blank">
                   
                   </a>
                 </Link>
                 
-            </p>
-           
+                       
           </div>
           <Button
                 onClick={agendarConsulta}
