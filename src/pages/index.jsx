@@ -35,7 +35,8 @@ export default function Home() {
       <script async src="//static.zotabox.com/9/1/91aee11a6170922cbfb29e7b88750e18/widgets.js"></script>
 
    
-
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5057171475807169"
+     crossorigin="anonymous"></script>
       
       
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-61KK36TT9J"></script>
