@@ -50,7 +50,7 @@ export default function Home() {
 </script>
 
 
-       <title>Home | Ads Auto - Marketing para Venda de Carros </title> 
+       <title>Home | Ads Auto - Marketing para Venda de Carros Brasil</title> 
        <p>2024 Copyright - All Rights Reserved </p>
         <meta align="center"
           name="keywords"
