@@ -32,13 +32,6 @@ export default function Home() {
   return (
     <>
       <Head>
-      <script async src="//static.zotabox.com/9/1/91aee11a6170922cbfb29e7b88750e18/widgets.js"></script>
-
-   
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5057171475807169"
-     crossorigin="anonymous"></script>
-      
-      
       <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-61KK36TT9J"></script>
 <script>
@@ -50,7 +43,7 @@ export default function Home() {
 </script>
 
 
-       <title>Home | Ads Auto - Marketing para Venda de Carros Brasil</title> 
+       <title>Home | Ads Auto - Marketing para Venda de Carros </title> 
        <p>2024 Copyright - All Rights Reserved </p>
         <meta align="center"
           name="keywords"
